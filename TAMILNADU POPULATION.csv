@@ -1,0 +1,47 @@
+﻿_id,S.No.,District,Male,Female,Transgender,Total
+1,1,Chennai City,2008,687,4,2699
+2,2,Coimbatore City,293,97,0,390
+3,3,Madurai City,271,117,0,388
+4,4,Salem City,150,94,0,244
+5,5,Thiruchirapalli City,129,63,0,192
+6,6,Thirunelveli City,70,28,0,98
+7,7,Thirupur City,238,99,0,337
+8,8,Ariyalur,135,93,0,228
+9,9,Chengalpattu,238,100,0,338
+10,10,Coimbatore,562,208,0,770
+11,11,Cuddalore,386,147,0,533
+12,12,Dharmapuri,197,130,0,327
+13,13,Dindigul,260,128,0,388
+14,14,Erode,297,148,0,445
+15,15,Kallakurichi,184,94,0,278
+16,16,Kancheepuram,167,47,0,214
+17,17,Kanniyakumari,538,108,0,646
+18,18,Karur,167,79,0,246
+19,19,Krishnagiri,331,171,0,502
+20,20,Madurai,316,141,0,457
+21,21,Nagapattinam,144,120,0,264
+22,22,Namakkal,261,135,0,396
+23,23,Perambalur,191,100,0,291
+24,24,Pudukkottai,182,104,0,286
+25,25,Ramanathapuram,216,82,0,298
+26,26,Ranipettai,166,61,1,228
+27,27,Salem,214,137,0,351
+28,28,Sivagangai,269,110,1,380
+29,29,Thenkasi,303,128,0,431
+30,30,Thanjavur,461,209,0,670
+31,31,The Nilgiris,192,59,0,251
+32,32,Theni,308,148,0,456
+33,33,Thiruvallur,272,121,0,393
+34,34,Thiruvarur,265,101,2,368
+35,35,Thoothukudi,470,210,1,681
+36,36,Thiruchirapalli,218,134,0,352
+37,37,Thirunelveli,315,128,0,443
+38,38,Thirupathur,159,88,0,247
+39,39,Thirupur,355,212,1,568
+40,40,Thiruvannamalai,320,186,0,506
+41,41,Vellore,179,102,0,281
+42,42,Villupuram,277,111,0,388
+43,43,Virudhunagar,326,145,0,471
+44,44,RP Chennai,64,7,0,71
+45,45,RP Thiruchirapalli,125,9,0,134
+46,,TOTAL,13189,5726,10,18925

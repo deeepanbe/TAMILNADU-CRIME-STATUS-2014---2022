@@ -1,0 +1,3457 @@
+Year,District,Crime_Type,Count
+2014,Ariyalur,Murder,300
+2014,Ariyalur,Assault,1000
+2014,Ariyalur,Theft,1000
+2014,Ariyalur,Robbery,300
+2014,Ariyalur,Kidnapping,300
+2014,Ariyalur,Cyber Crime,500
+2014,Ariyalur,Road Accident Deaths,141
+2014,Ariyalur,Economic Crime,800
+2014,Chennai,Murder,300
+2014,Chennai,Assault,1000
+2014,Chennai,Theft,1000
+2014,Chennai,Robbery,300
+2014,Chennai,Kidnapping,300
+2014,Chennai,Cyber Crime,500
+2014,Chennai,Road Accident Deaths,858
+2014,Chennai,Economic Crime,800
+2014,Coimbatore,Murder,300
+2014,Coimbatore,Assault,1000
+2014,Coimbatore,Theft,1000
+2014,Coimbatore,Robbery,300
+2014,Coimbatore,Kidnapping,300
+2014,Coimbatore,Cyber Crime,500
+2014,Coimbatore,Road Accident Deaths,521
+2014,Coimbatore,Economic Crime,800
+2014,Coimbatore  City,Murder,300
+2014,Coimbatore  City,Assault,1000
+2014,Coimbatore  City,Theft,1000
+2014,Coimbatore  City,Robbery,300
+2014,Coimbatore  City,Kidnapping,300
+2014,Coimbatore  City,Cyber Crime,500
+2014,Coimbatore  City,Road Accident Deaths,204
+2014,Coimbatore  City,Economic Crime,800
+2014,Cuddalore,Murder,300
+2014,Cuddalore,Assault,1000
+2014,Cuddalore,Theft,1000
+2014,Cuddalore,Robbery,300
+2014,Cuddalore,Kidnapping,300
+2014,Cuddalore,Cyber Crime,500
+2014,Cuddalore,Road Accident Deaths,462
+2014,Cuddalore,Economic Crime,800
+2014,Dharmapuri,Murder,300
+2014,Dharmapuri,Assault,1000
+2014,Dharmapuri,Theft,1000
+2014,Dharmapuri,Robbery,300
+2014,Dharmapuri,Kidnapping,300
+2014,Dharmapuri,Cyber Crime,500
+2014,Dharmapuri,Road Accident Deaths,271
+2014,Dharmapuri,Economic Crime,800
+2014,Dindigul,Murder,300
+2014,Dindigul,Assault,1000
+2014,Dindigul,Theft,1000
+2014,Dindigul,Robbery,300
+2014,Dindigul,Kidnapping,300
+2014,Dindigul,Cyber Crime,500
+2014,Dindigul,Road Accident Deaths,447
+2014,Dindigul,Economic Crime,800
+2014,Erode,Murder,300
+2014,Erode,Assault,1000
+2014,Erode,Theft,1000
+2014,Erode,Robbery,300
+2014,Erode,Kidnapping,300
+2014,Erode,Cyber Crime,500
+2014,Erode,Road Accident Deaths,434
+2014,Erode,Economic Crime,800
+2014,Kanchipuram,Murder,300
+2014,Kanchipuram,Assault,1000
+2014,Kanchipuram,Theft,1000
+2014,Kanchipuram,Robbery,300
+2014,Kanchipuram,Kidnapping,300
+2014,Kanchipuram,Cyber Crime,500
+2014,Kanchipuram,Road Accident Deaths,205
+2014,Kanchipuram,Economic Crime,800
+2014,Kanyakumari,Murder,300
+2014,Kanyakumari,Assault,1000
+2014,Kanyakumari,Theft,1000
+2014,Kanyakumari,Robbery,300
+2014,Kanyakumari,Kidnapping,300
+2014,Kanyakumari,Cyber Crime,500
+2014,Kanyakumari,Road Accident Deaths,270
+2014,Kanyakumari,Economic Crime,800
+2014,Karur,Murder,300
+2014,Karur,Assault,1000
+2014,Karur,Theft,1000
+2014,Karur,Robbery,300
+2014,Karur,Kidnapping,300
+2014,Karur,Cyber Crime,500
+2014,Karur,Road Accident Deaths,345
+2014,Karur,Economic Crime,800
+2014,Krishnagiri,Murder,300
+2014,Krishnagiri,Assault,1000
+2014,Krishnagiri,Theft,1000
+2014,Krishnagiri,Robbery,300
+2014,Krishnagiri,Kidnapping,300
+2014,Krishnagiri,Cyber Crime,500
+2014,Krishnagiri,Road Accident Deaths,477
+2014,Krishnagiri,Economic Crime,800
+2014,Madurai,Murder,300
+2014,Madurai,Assault,1000
+2014,Madurai,Theft,1000
+2014,Madurai,Robbery,300
+2014,Madurai,Kidnapping,300
+2014,Madurai,Cyber Crime,500
+2014,Madurai,Road Accident Deaths,465
+2014,Madurai,Economic Crime,800
+2014,Madurai City,Murder,300
+2014,Madurai City,Assault,1000
+2014,Madurai City,Theft,1000
+2014,Madurai City,Robbery,300
+2014,Madurai City,Kidnapping,300
+2014,Madurai City,Cyber Crime,500
+2014,Madurai City,Road Accident Deaths,133
+2014,Madurai City,Economic Crime,800
+2014,Nagapattinam,Murder,300
+2014,Nagapattinam,Assault,1000
+2014,Nagapattinam,Theft,1000
+2014,Nagapattinam,Robbery,300
+2014,Nagapattinam,Kidnapping,300
+2014,Nagapattinam,Cyber Crime,500
+2014,Nagapattinam,Road Accident Deaths,193
+2014,Nagapattinam,Economic Crime,800
+2014,Namakkal,Murder,300
+2014,Namakkal,Assault,1000
+2014,Namakkal,Theft,1000
+2014,Namakkal,Robbery,300
+2014,Namakkal,Kidnapping,300
+2014,Namakkal,Cyber Crime,500
+2014,Namakkal,Road Accident Deaths,363
+2014,Namakkal,Economic Crime,800
+2014,Nilgiris,Murder,300
+2014,Nilgiris,Assault,1000
+2014,Nilgiris,Theft,1000
+2014,Nilgiris,Robbery,300
+2014,Nilgiris,Kidnapping,300
+2014,Nilgiris,Cyber Crime,500
+2014,Nilgiris,Road Accident Deaths,28
+2014,Nilgiris,Economic Crime,800
+2014,Perambalur,Murder,300
+2014,Perambalur,Assault,1000
+2014,Perambalur,Theft,1000
+2014,Perambalur,Robbery,300
+2014,Perambalur,Kidnapping,300
+2014,Perambalur,Cyber Crime,500
+2014,Perambalur,Road Accident Deaths,144
+2014,Perambalur,Economic Crime,800
+2014,Pudukottai,Murder,300
+2014,Pudukottai,Assault,1000
+2014,Pudukottai,Theft,1000
+2014,Pudukottai,Robbery,300
+2014,Pudukottai,Kidnapping,300
+2014,Pudukottai,Cyber Crime,500
+2014,Pudukottai,Road Accident Deaths,316
+2014,Pudukottai,Economic Crime,800
+2014,Ramnathapuram,Murder,300
+2014,Ramnathapuram,Assault,1000
+2014,Ramnathapuram,Theft,1000
+2014,Ramnathapuram,Robbery,300
+2014,Ramnathapuram,Kidnapping,300
+2014,Ramnathapuram,Cyber Crime,500
+2014,Ramnathapuram,Road Accident Deaths,279
+2014,Ramnathapuram,Economic Crime,800
+2014,Railway Chennai,Murder,300
+2014,Railway Chennai,Assault,1000
+2014,Railway Chennai,Theft,1000
+2014,Railway Chennai,Robbery,300
+2014,Railway Chennai,Kidnapping,300
+2014,Railway Chennai,Cyber Crime,500
+2014,Railway Chennai,Road Accident Deaths,0
+2014,Railway Chennai,Economic Crime,800
+2014,Railway Trichy,Murder,300
+2014,Railway Trichy,Assault,1000
+2014,Railway Trichy,Theft,1000
+2014,Railway Trichy,Robbery,300
+2014,Railway Trichy,Kidnapping,300
+2014,Railway Trichy,Cyber Crime,500
+2014,Railway Trichy,Road Accident Deaths,0
+2014,Railway Trichy,Economic Crime,800
+2014,Salem,Murder,300
+2014,Salem,Assault,1000
+2014,Salem,Theft,1000
+2014,Salem,Robbery,300
+2014,Salem,Kidnapping,300
+2014,Salem,Cyber Crime,500
+2014,Salem,Road Accident Deaths,491
+2014,Salem,Economic Crime,800
+2014,Salem City,Murder,300
+2014,Salem City,Assault,1000
+2014,Salem City,Theft,1000
+2014,Salem City,Robbery,300
+2014,Salem City,Kidnapping,300
+2014,Salem City,Cyber Crime,500
+2014,Salem City,Road Accident Deaths,129
+2014,Salem City,Economic Crime,800
+2014,Sivagangai,Murder,300
+2014,Sivagangai,Assault,1000
+2014,Sivagangai,Theft,1000
+2014,Sivagangai,Robbery,300
+2014,Sivagangai,Kidnapping,300
+2014,Sivagangai,Cyber Crime,500
+2014,Sivagangai,Road Accident Deaths,281
+2014,Sivagangai,Economic Crime,800
+2014,Thanjavur,Murder,300
+2014,Thanjavur,Assault,1000
+2014,Thanjavur,Theft,1000
+2014,Thanjavur,Robbery,300
+2014,Thanjavur,Kidnapping,300
+2014,Thanjavur,Cyber Crime,500
+2014,Thanjavur,Road Accident Deaths,366
+2014,Thanjavur,Economic Crime,800
+2014,Theni,Murder,300
+2014,Theni,Assault,1000
+2014,Theni,Theft,1000
+2014,Theni,Robbery,300
+2014,Theni,Kidnapping,300
+2014,Theni,Cyber Crime,500
+2014,Theni,Road Accident Deaths,198
+2014,Theni,Economic Crime,800
+2014,Thirunelveli,Murder,300
+2014,Thirunelveli,Assault,1000
+2014,Thirunelveli,Theft,1000
+2014,Thirunelveli,Robbery,300
+2014,Thirunelveli,Kidnapping,300
+2014,Thirunelveli,Cyber Crime,500
+2014,Thirunelveli,Road Accident Deaths,233
+2014,Thirunelveli,Economic Crime,800
+2014,Thirunelveli City,Murder,300
+2014,Thirunelveli City,Assault,1000
+2014,Thirunelveli City,Theft,1000
+2014,Thirunelveli City,Robbery,300
+2014,Thirunelveli City,Kidnapping,300
+2014,Thirunelveli City,Cyber Crime,500
+2014,Thirunelveli City,Road Accident Deaths,66
+2014,Thirunelveli City,Economic Crime,800
+2014,Thiruvallur,Murder,300
+2014,Thiruvallur,Assault,1000
+2014,Thiruvallur,Theft,1000
+2014,Thiruvallur,Robbery,300
+2014,Thiruvallur,Kidnapping,300
+2014,Thiruvallur,Cyber Crime,500
+2014,Thiruvallur,Road Accident Deaths,279
+2014,Thiruvallur,Economic Crime,800
+2014,Thiruvannamalai,Murder,300
+2014,Thiruvannamalai,Assault,1000
+2014,Thiruvannamalai,Theft,1000
+2014,Thiruvannamalai,Robbery,300
+2014,Thiruvannamalai,Kidnapping,300
+2014,Thiruvannamalai,Cyber Crime,500
+2014,Thiruvannamalai,Road Accident Deaths,431
+2014,Thiruvannamalai,Economic Crime,800
+2014,Thiruvarur,Murder,300
+2014,Thiruvarur,Assault,1000
+2014,Thiruvarur,Theft,1000
+2014,Thiruvarur,Robbery,300
+2014,Thiruvarur,Kidnapping,300
+2014,Thiruvarur,Cyber Crime,500
+2014,Thiruvarur,Road Accident Deaths,142
+2014,Thiruvarur,Economic Crime,800
+2014,Thoothukudi,Murder,300
+2014,Thoothukudi,Assault,1000
+2014,Thoothukudi,Theft,1000
+2014,Thoothukudi,Robbery,300
+2014,Thoothukudi,Kidnapping,300
+2014,Thoothukudi,Cyber Crime,500
+2014,Thoothukudi,Road Accident Deaths,326
+2014,Thoothukudi,Economic Crime,800
+2014,Tiruppur,Murder,300
+2014,Tiruppur,Assault,1000
+2014,Tiruppur,Theft,1000
+2014,Tiruppur,Robbery,300
+2014,Tiruppur,Kidnapping,300
+2014,Tiruppur,Cyber Crime,500
+2014,Tiruppur,Road Accident Deaths,549
+2014,Tiruppur,Economic Crime,800
+2014,Tiruppur City,Murder,300
+2014,Tiruppur City,Assault,1000
+2014,Tiruppur City,Theft,1000
+2014,Tiruppur City,Robbery,300
+2014,Tiruppur City,Kidnapping,300
+2014,Tiruppur City,Cyber Crime,500
+2014,Tiruppur City,Road Accident Deaths,126
+2014,Tiruppur City,Economic Crime,800
+2014,Trichy,Murder,300
+2014,Trichy,Assault,1000
+2014,Trichy,Theft,1000
+2014,Trichy,Robbery,300
+2014,Trichy,Kidnapping,300
+2014,Trichy,Cyber Crime,500
+2014,Trichy,Road Accident Deaths,438
+2014,Trichy,Economic Crime,800
+2014,Trichy City,Murder,300
+2014,Trichy City,Assault,1000
+2014,Trichy City,Theft,1000
+2014,Trichy City,Robbery,300
+2014,Trichy City,Kidnapping,300
+2014,Trichy City,Cyber Crime,500
+2014,Trichy City,Road Accident Deaths,110
+2014,Trichy City,Economic Crime,800
+2014,Vellore,Murder,300
+2014,Vellore,Assault,1000
+2014,Vellore,Theft,1000
+2014,Vellore,Robbery,300
+2014,Vellore,Kidnapping,300
+2014,Vellore,Cyber Crime,500
+2014,Vellore,Road Accident Deaths,209
+2014,Vellore,Economic Crime,800
+2014,Villupuram,Murder,300
+2014,Villupuram,Assault,1000
+2014,Villupuram,Theft,1000
+2014,Villupuram,Robbery,300
+2014,Villupuram,Kidnapping,300
+2014,Villupuram,Cyber Crime,500
+2014,Villupuram,Road Accident Deaths,442
+2014,Villupuram,Economic Crime,800
+2014,Virudhunagar,Murder,300
+2014,Virudhunagar,Assault,1000
+2014,Virudhunagar,Theft,1000
+2014,Virudhunagar,Robbery,300
+2014,Virudhunagar,Kidnapping,300
+2014,Virudhunagar,Cyber Crime,500
+2014,Virudhunagar,Road Accident Deaths,363
+2014,Virudhunagar,Economic Crime,800
+2014,Cyber Cell,Murder,300
+2014,Cyber Cell,Assault,1000
+2014,Cyber Cell,Theft,1000
+2014,Cyber Cell,Robbery,300
+2014,Cyber Cell,Kidnapping,300
+2014,Cyber Cell,Cyber Crime,500
+2014,Cyber Cell,Road Accident Deaths,0
+2014,Cyber Cell,Economic Crime,800
+2014,Other Units,Murder,300
+2014,Other Units,Assault,1000
+2014,Other Units,Theft,1000
+2014,Other Units,Robbery,300
+2014,Other Units,Kidnapping,300
+2014,Other Units,Cyber Crime,500
+2014,Other Units,Road Accident Deaths,0
+2014,Other Units,Economic Crime,800
+2014,Chengalpattu,Murder,300
+2014,Chengalpattu,Assault,1000
+2014,Chengalpattu,Theft,1000
+2014,Chengalpattu,Robbery,300
+2014,Chengalpattu,Kidnapping,300
+2014,Chengalpattu,Cyber Crime,500
+2014,Chengalpattu,Road Accident Deaths,397
+2014,Chengalpattu,Economic Crime,800
+2014,Kallakurichi,Murder,300
+2014,Kallakurichi,Assault,1000
+2014,Kallakurichi,Theft,1000
+2014,Kallakurichi,Robbery,300
+2014,Kallakurichi,Kidnapping,300
+2014,Kallakurichi,Cyber Crime,500
+2014,Kallakurichi,Road Accident Deaths,224
+2014,Kallakurichi,Economic Crime,800
+2014,Ranipet,Murder,300
+2014,Ranipet,Assault,1000
+2014,Ranipet,Theft,1000
+2014,Ranipet,Robbery,300
+2014,Ranipet,Kidnapping,300
+2014,Ranipet,Cyber Crime,500
+2014,Ranipet,Road Accident Deaths,210
+2014,Ranipet,Economic Crime,800
+2014,Tiruppattur,Murder,300
+2014,Tiruppattur,Assault,1000
+2014,Tiruppattur,Theft,1000
+2014,Tiruppattur,Robbery,300
+2014,Tiruppattur,Kidnapping,300
+2014,Tiruppattur,Cyber Crime,500
+2014,Tiruppattur,Road Accident Deaths,191
+2014,Tiruppattur,Economic Crime,800
+2014,Tenkasi,Murder,300
+2014,Tenkasi,Assault,1000
+2014,Tenkasi,Theft,1000
+2014,Tenkasi,Robbery,300
+2014,Tenkasi,Kidnapping,300
+2014,Tenkasi,Cyber Crime,500
+2014,Tenkasi,Road Accident Deaths,198
+2014,Tenkasi,Economic Crime,800
+2014,TOTAL,Murder,300
+2014,TOTAL,Assault,1000
+2014,TOTAL,Theft,1000
+2014,TOTAL,Robbery,300
+2014,TOTAL,Kidnapping,300
+2014,TOTAL,Cyber Crime,500
+2014,TOTAL,Road Accident Deaths,12977
+2014,TOTAL,Economic Crime,800
+2015,Ariyalur,Murder,310
+2015,Ariyalur,Assault,1050
+2015,Ariyalur,Theft,1050
+2015,Ariyalur,Robbery,310
+2015,Ariyalur,Kidnapping,310
+2015,Ariyalur,Cyber Crime,650
+2015,Ariyalur,Road Accident Deaths,144
+2015,Ariyalur,Economic Crime,900
+2015,Chennai,Murder,310
+2015,Chennai,Assault,1050
+2015,Chennai,Theft,1050
+2015,Chennai,Robbery,310
+2015,Chennai,Kidnapping,310
+2015,Chennai,Cyber Crime,650
+2015,Chennai,Road Accident Deaths,877
+2015,Chennai,Economic Crime,900
+2015,Coimbatore,Murder,310
+2015,Coimbatore,Assault,1050
+2015,Coimbatore,Theft,1050
+2015,Coimbatore,Robbery,310
+2015,Coimbatore,Kidnapping,310
+2015,Coimbatore,Cyber Crime,650
+2015,Coimbatore,Road Accident Deaths,533
+2015,Coimbatore,Economic Crime,900
+2015,Coimbatore  City,Murder,310
+2015,Coimbatore  City,Assault,1050
+2015,Coimbatore  City,Theft,1050
+2015,Coimbatore  City,Robbery,310
+2015,Coimbatore  City,Kidnapping,310
+2015,Coimbatore  City,Cyber Crime,650
+2015,Coimbatore  City,Road Accident Deaths,208
+2015,Coimbatore  City,Economic Crime,900
+2015,Cuddalore,Murder,310
+2015,Cuddalore,Assault,1050
+2015,Cuddalore,Theft,1050
+2015,Cuddalore,Robbery,310
+2015,Cuddalore,Kidnapping,310
+2015,Cuddalore,Cyber Crime,650
+2015,Cuddalore,Road Accident Deaths,472
+2015,Cuddalore,Economic Crime,900
+2015,Dharmapuri,Murder,310
+2015,Dharmapuri,Assault,1050
+2015,Dharmapuri,Theft,1050
+2015,Dharmapuri,Robbery,310
+2015,Dharmapuri,Kidnapping,310
+2015,Dharmapuri,Cyber Crime,650
+2015,Dharmapuri,Road Accident Deaths,277
+2015,Dharmapuri,Economic Crime,900
+2015,Dindigul,Murder,310
+2015,Dindigul,Assault,1050
+2015,Dindigul,Theft,1050
+2015,Dindigul,Robbery,310
+2015,Dindigul,Kidnapping,310
+2015,Dindigul,Cyber Crime,650
+2015,Dindigul,Road Accident Deaths,458
+2015,Dindigul,Economic Crime,900
+2015,Erode,Murder,310
+2015,Erode,Assault,1050
+2015,Erode,Theft,1050
+2015,Erode,Robbery,310
+2015,Erode,Kidnapping,310
+2015,Erode,Cyber Crime,650
+2015,Erode,Road Accident Deaths,444
+2015,Erode,Economic Crime,900
+2015,Kanchipuram,Murder,310
+2015,Kanchipuram,Assault,1050
+2015,Kanchipuram,Theft,1050
+2015,Kanchipuram,Robbery,310
+2015,Kanchipuram,Kidnapping,310
+2015,Kanchipuram,Cyber Crime,650
+2015,Kanchipuram,Road Accident Deaths,209
+2015,Kanchipuram,Economic Crime,900
+2015,Kanyakumari,Murder,310
+2015,Kanyakumari,Assault,1050
+2015,Kanyakumari,Theft,1050
+2015,Kanyakumari,Robbery,310
+2015,Kanyakumari,Kidnapping,310
+2015,Kanyakumari,Cyber Crime,650
+2015,Kanyakumari,Road Accident Deaths,276
+2015,Kanyakumari,Economic Crime,900
+2015,Karur,Murder,310
+2015,Karur,Assault,1050
+2015,Karur,Theft,1050
+2015,Karur,Robbery,310
+2015,Karur,Kidnapping,310
+2015,Karur,Cyber Crime,650
+2015,Karur,Road Accident Deaths,353
+2015,Karur,Economic Crime,900
+2015,Krishnagiri,Murder,310
+2015,Krishnagiri,Assault,1050
+2015,Krishnagiri,Theft,1050
+2015,Krishnagiri,Robbery,310
+2015,Krishnagiri,Kidnapping,310
+2015,Krishnagiri,Cyber Crime,650
+2015,Krishnagiri,Road Accident Deaths,488
+2015,Krishnagiri,Economic Crime,900
+2015,Madurai,Murder,310
+2015,Madurai,Assault,1050
+2015,Madurai,Theft,1050
+2015,Madurai,Robbery,310
+2015,Madurai,Kidnapping,310
+2015,Madurai,Cyber Crime,650
+2015,Madurai,Road Accident Deaths,476
+2015,Madurai,Economic Crime,900
+2015,Madurai City,Murder,310
+2015,Madurai City,Assault,1050
+2015,Madurai City,Theft,1050
+2015,Madurai City,Robbery,310
+2015,Madurai City,Kidnapping,310
+2015,Madurai City,Cyber Crime,650
+2015,Madurai City,Road Accident Deaths,136
+2015,Madurai City,Economic Crime,900
+2015,Nagapattinam,Murder,310
+2015,Nagapattinam,Assault,1050
+2015,Nagapattinam,Theft,1050
+2015,Nagapattinam,Robbery,310
+2015,Nagapattinam,Kidnapping,310
+2015,Nagapattinam,Cyber Crime,650
+2015,Nagapattinam,Road Accident Deaths,198
+2015,Nagapattinam,Economic Crime,900
+2015,Namakkal,Murder,310
+2015,Namakkal,Assault,1050
+2015,Namakkal,Theft,1050
+2015,Namakkal,Robbery,310
+2015,Namakkal,Kidnapping,310
+2015,Namakkal,Cyber Crime,650
+2015,Namakkal,Road Accident Deaths,371
+2015,Namakkal,Economic Crime,900
+2015,Nilgiris,Murder,310
+2015,Nilgiris,Assault,1050
+2015,Nilgiris,Theft,1050
+2015,Nilgiris,Robbery,310
+2015,Nilgiris,Kidnapping,310
+2015,Nilgiris,Cyber Crime,650
+2015,Nilgiris,Road Accident Deaths,28
+2015,Nilgiris,Economic Crime,900
+2015,Perambalur,Murder,310
+2015,Perambalur,Assault,1050
+2015,Perambalur,Theft,1050
+2015,Perambalur,Robbery,310
+2015,Perambalur,Kidnapping,310
+2015,Perambalur,Cyber Crime,650
+2015,Perambalur,Road Accident Deaths,147
+2015,Perambalur,Economic Crime,900
+2015,Pudukottai,Murder,310
+2015,Pudukottai,Assault,1050
+2015,Pudukottai,Theft,1050
+2015,Pudukottai,Robbery,310
+2015,Pudukottai,Kidnapping,310
+2015,Pudukottai,Cyber Crime,650
+2015,Pudukottai,Road Accident Deaths,324
+2015,Pudukottai,Economic Crime,900
+2015,Ramnathapuram,Murder,310
+2015,Ramnathapuram,Assault,1050
+2015,Ramnathapuram,Theft,1050
+2015,Ramnathapuram,Robbery,310
+2015,Ramnathapuram,Kidnapping,310
+2015,Ramnathapuram,Cyber Crime,650
+2015,Ramnathapuram,Road Accident Deaths,286
+2015,Ramnathapuram,Economic Crime,900
+2015,Railway Chennai,Murder,310
+2015,Railway Chennai,Assault,1050
+2015,Railway Chennai,Theft,1050
+2015,Railway Chennai,Robbery,310
+2015,Railway Chennai,Kidnapping,310
+2015,Railway Chennai,Cyber Crime,650
+2015,Railway Chennai,Road Accident Deaths,0
+2015,Railway Chennai,Economic Crime,900
+2015,Railway Trichy,Murder,310
+2015,Railway Trichy,Assault,1050
+2015,Railway Trichy,Theft,1050
+2015,Railway Trichy,Robbery,310
+2015,Railway Trichy,Kidnapping,310
+2015,Railway Trichy,Cyber Crime,650
+2015,Railway Trichy,Road Accident Deaths,0
+2015,Railway Trichy,Economic Crime,900
+2015,Salem,Murder,310
+2015,Salem,Assault,1050
+2015,Salem,Theft,1050
+2015,Salem,Robbery,310
+2015,Salem,Kidnapping,310
+2015,Salem,Cyber Crime,650
+2015,Salem,Road Accident Deaths,503
+2015,Salem,Economic Crime,900
+2015,Salem City,Murder,310
+2015,Salem City,Assault,1050
+2015,Salem City,Theft,1050
+2015,Salem City,Robbery,310
+2015,Salem City,Kidnapping,310
+2015,Salem City,Cyber Crime,650
+2015,Salem City,Road Accident Deaths,132
+2015,Salem City,Economic Crime,900
+2015,Sivagangai,Murder,310
+2015,Sivagangai,Assault,1050
+2015,Sivagangai,Theft,1050
+2015,Sivagangai,Robbery,310
+2015,Sivagangai,Kidnapping,310
+2015,Sivagangai,Cyber Crime,650
+2015,Sivagangai,Road Accident Deaths,288
+2015,Sivagangai,Economic Crime,900
+2015,Thanjavur,Murder,310
+2015,Thanjavur,Assault,1050
+2015,Thanjavur,Theft,1050
+2015,Thanjavur,Robbery,310
+2015,Thanjavur,Kidnapping,310
+2015,Thanjavur,Cyber Crime,650
+2015,Thanjavur,Road Accident Deaths,374
+2015,Thanjavur,Economic Crime,900
+2015,Theni,Murder,310
+2015,Theni,Assault,1050
+2015,Theni,Theft,1050
+2015,Theni,Robbery,310
+2015,Theni,Kidnapping,310
+2015,Theni,Cyber Crime,650
+2015,Theni,Road Accident Deaths,203
+2015,Theni,Economic Crime,900
+2015,Thirunelveli,Murder,310
+2015,Thirunelveli,Assault,1050
+2015,Thirunelveli,Theft,1050
+2015,Thirunelveli,Robbery,310
+2015,Thirunelveli,Kidnapping,310
+2015,Thirunelveli,Cyber Crime,650
+2015,Thirunelveli,Road Accident Deaths,238
+2015,Thirunelveli,Economic Crime,900
+2015,Thirunelveli City,Murder,310
+2015,Thirunelveli City,Assault,1050
+2015,Thirunelveli City,Theft,1050
+2015,Thirunelveli City,Robbery,310
+2015,Thirunelveli City,Kidnapping,310
+2015,Thirunelveli City,Cyber Crime,650
+2015,Thirunelveli City,Road Accident Deaths,68
+2015,Thirunelveli City,Economic Crime,900
+2015,Thiruvallur,Murder,310
+2015,Thiruvallur,Assault,1050
+2015,Thiruvallur,Theft,1050
+2015,Thiruvallur,Robbery,310
+2015,Thiruvallur,Kidnapping,310
+2015,Thiruvallur,Cyber Crime,650
+2015,Thiruvallur,Road Accident Deaths,286
+2015,Thiruvallur,Economic Crime,900
+2015,Thiruvannamalai,Murder,310
+2015,Thiruvannamalai,Assault,1050
+2015,Thiruvannamalai,Theft,1050
+2015,Thiruvannamalai,Robbery,310
+2015,Thiruvannamalai,Kidnapping,310
+2015,Thiruvannamalai,Cyber Crime,650
+2015,Thiruvannamalai,Road Accident Deaths,441
+2015,Thiruvannamalai,Economic Crime,900
+2015,Thiruvarur,Murder,310
+2015,Thiruvarur,Assault,1050
+2015,Thiruvarur,Theft,1050
+2015,Thiruvarur,Robbery,310
+2015,Thiruvarur,Kidnapping,310
+2015,Thiruvarur,Cyber Crime,650
+2015,Thiruvarur,Road Accident Deaths,145
+2015,Thiruvarur,Economic Crime,900
+2015,Thoothukudi,Murder,310
+2015,Thoothukudi,Assault,1050
+2015,Thoothukudi,Theft,1050
+2015,Thoothukudi,Robbery,310
+2015,Thoothukudi,Kidnapping,310
+2015,Thoothukudi,Cyber Crime,650
+2015,Thoothukudi,Road Accident Deaths,333
+2015,Thoothukudi,Economic Crime,900
+2015,Tiruppur,Murder,310
+2015,Tiruppur,Assault,1050
+2015,Tiruppur,Theft,1050
+2015,Tiruppur,Robbery,310
+2015,Tiruppur,Kidnapping,310
+2015,Tiruppur,Cyber Crime,650
+2015,Tiruppur,Road Accident Deaths,561
+2015,Tiruppur,Economic Crime,900
+2015,Tiruppur City,Murder,310
+2015,Tiruppur City,Assault,1050
+2015,Tiruppur City,Theft,1050
+2015,Tiruppur City,Robbery,310
+2015,Tiruppur City,Kidnapping,310
+2015,Tiruppur City,Cyber Crime,650
+2015,Tiruppur City,Road Accident Deaths,129
+2015,Tiruppur City,Economic Crime,900
+2015,Trichy,Murder,310
+2015,Trichy,Assault,1050
+2015,Trichy,Theft,1050
+2015,Trichy,Robbery,310
+2015,Trichy,Kidnapping,310
+2015,Trichy,Cyber Crime,650
+2015,Trichy,Road Accident Deaths,448
+2015,Trichy,Economic Crime,900
+2015,Trichy City,Murder,310
+2015,Trichy City,Assault,1050
+2015,Trichy City,Theft,1050
+2015,Trichy City,Robbery,310
+2015,Trichy City,Kidnapping,310
+2015,Trichy City,Cyber Crime,650
+2015,Trichy City,Road Accident Deaths,113
+2015,Trichy City,Economic Crime,900
+2015,Vellore,Murder,310
+2015,Vellore,Assault,1050
+2015,Vellore,Theft,1050
+2015,Vellore,Robbery,310
+2015,Vellore,Kidnapping,310
+2015,Vellore,Cyber Crime,650
+2015,Vellore,Road Accident Deaths,214
+2015,Vellore,Economic Crime,900
+2015,Villupuram,Murder,310
+2015,Villupuram,Assault,1050
+2015,Villupuram,Theft,1050
+2015,Villupuram,Robbery,310
+2015,Villupuram,Kidnapping,310
+2015,Villupuram,Cyber Crime,650
+2015,Villupuram,Road Accident Deaths,452
+2015,Villupuram,Economic Crime,900
+2015,Virudhunagar,Murder,310
+2015,Virudhunagar,Assault,1050
+2015,Virudhunagar,Theft,1050
+2015,Virudhunagar,Robbery,310
+2015,Virudhunagar,Kidnapping,310
+2015,Virudhunagar,Cyber Crime,650
+2015,Virudhunagar,Road Accident Deaths,371
+2015,Virudhunagar,Economic Crime,900
+2015,Cyber Cell,Murder,310
+2015,Cyber Cell,Assault,1050
+2015,Cyber Cell,Theft,1050
+2015,Cyber Cell,Robbery,310
+2015,Cyber Cell,Kidnapping,310
+2015,Cyber Cell,Cyber Crime,650
+2015,Cyber Cell,Road Accident Deaths,0
+2015,Cyber Cell,Economic Crime,900
+2015,Other Units,Murder,310
+2015,Other Units,Assault,1050
+2015,Other Units,Theft,1050
+2015,Other Units,Robbery,310
+2015,Other Units,Kidnapping,310
+2015,Other Units,Cyber Crime,650
+2015,Other Units,Road Accident Deaths,0
+2015,Other Units,Economic Crime,900
+2015,Chengalpattu,Murder,310
+2015,Chengalpattu,Assault,1050
+2015,Chengalpattu,Theft,1050
+2015,Chengalpattu,Robbery,310
+2015,Chengalpattu,Kidnapping,310
+2015,Chengalpattu,Cyber Crime,650
+2015,Chengalpattu,Road Accident Deaths,406
+2015,Chengalpattu,Economic Crime,900
+2015,Kallakurichi,Murder,310
+2015,Kallakurichi,Assault,1050
+2015,Kallakurichi,Theft,1050
+2015,Kallakurichi,Robbery,310
+2015,Kallakurichi,Kidnapping,310
+2015,Kallakurichi,Cyber Crime,650
+2015,Kallakurichi,Road Accident Deaths,229
+2015,Kallakurichi,Economic Crime,900
+2015,Ranipet,Murder,310
+2015,Ranipet,Assault,1050
+2015,Ranipet,Theft,1050
+2015,Ranipet,Robbery,310
+2015,Ranipet,Kidnapping,310
+2015,Ranipet,Cyber Crime,650
+2015,Ranipet,Road Accident Deaths,215
+2015,Ranipet,Economic Crime,900
+2015,Tiruppattur,Murder,310
+2015,Tiruppattur,Assault,1050
+2015,Tiruppattur,Theft,1050
+2015,Tiruppattur,Robbery,310
+2015,Tiruppattur,Kidnapping,310
+2015,Tiruppattur,Cyber Crime,650
+2015,Tiruppattur,Road Accident Deaths,196
+2015,Tiruppattur,Economic Crime,900
+2015,Tenkasi,Murder,310
+2015,Tenkasi,Assault,1050
+2015,Tenkasi,Theft,1050
+2015,Tenkasi,Robbery,310
+2015,Tenkasi,Kidnapping,310
+2015,Tenkasi,Cyber Crime,650
+2015,Tenkasi,Road Accident Deaths,202
+2015,Tenkasi,Economic Crime,900
+2015,TOTAL,Murder,310
+2015,TOTAL,Assault,1050
+2015,TOTAL,Theft,1050
+2015,TOTAL,Robbery,310
+2015,TOTAL,Kidnapping,310
+2015,TOTAL,Cyber Crime,650
+2015,TOTAL,Road Accident Deaths,13272
+2015,TOTAL,Economic Crime,900
+2016,Ariyalur,Murder,320
+2016,Ariyalur,Assault,1100
+2016,Ariyalur,Theft,1100
+2016,Ariyalur,Robbery,320
+2016,Ariyalur,Kidnapping,320
+2016,Ariyalur,Cyber Crime,800
+2016,Ariyalur,Road Accident Deaths,148
+2016,Ariyalur,Economic Crime,1000
+2016,Chennai,Murder,320
+2016,Chennai,Assault,1100
+2016,Chennai,Theft,1100
+2016,Chennai,Robbery,320
+2016,Chennai,Kidnapping,320
+2016,Chennai,Cyber Crime,800
+2016,Chennai,Road Accident Deaths,897
+2016,Chennai,Economic Crime,1000
+2016,Coimbatore,Murder,320
+2016,Coimbatore,Assault,1100
+2016,Coimbatore,Theft,1100
+2016,Coimbatore,Robbery,320
+2016,Coimbatore,Kidnapping,320
+2016,Coimbatore,Cyber Crime,800
+2016,Coimbatore,Road Accident Deaths,545
+2016,Coimbatore,Economic Crime,1000
+2016,Coimbatore  City,Murder,320
+2016,Coimbatore  City,Assault,1100
+2016,Coimbatore  City,Theft,1100
+2016,Coimbatore  City,Robbery,320
+2016,Coimbatore  City,Kidnapping,320
+2016,Coimbatore  City,Cyber Crime,800
+2016,Coimbatore  City,Road Accident Deaths,213
+2016,Coimbatore  City,Economic Crime,1000
+2016,Cuddalore,Murder,320
+2016,Cuddalore,Assault,1100
+2016,Cuddalore,Theft,1100
+2016,Cuddalore,Robbery,320
+2016,Cuddalore,Kidnapping,320
+2016,Cuddalore,Cyber Crime,800
+2016,Cuddalore,Road Accident Deaths,483
+2016,Cuddalore,Economic Crime,1000
+2016,Dharmapuri,Murder,320
+2016,Dharmapuri,Assault,1100
+2016,Dharmapuri,Theft,1100
+2016,Dharmapuri,Robbery,320
+2016,Dharmapuri,Kidnapping,320
+2016,Dharmapuri,Cyber Crime,800
+2016,Dharmapuri,Road Accident Deaths,283
+2016,Dharmapuri,Economic Crime,1000
+2016,Dindigul,Murder,320
+2016,Dindigul,Assault,1100
+2016,Dindigul,Theft,1100
+2016,Dindigul,Robbery,320
+2016,Dindigul,Kidnapping,320
+2016,Dindigul,Cyber Crime,800
+2016,Dindigul,Road Accident Deaths,468
+2016,Dindigul,Economic Crime,1000
+2016,Erode,Murder,320
+2016,Erode,Assault,1100
+2016,Erode,Theft,1100
+2016,Erode,Robbery,320
+2016,Erode,Kidnapping,320
+2016,Erode,Cyber Crime,800
+2016,Erode,Road Accident Deaths,454
+2016,Erode,Economic Crime,1000
+2016,Kanchipuram,Murder,320
+2016,Kanchipuram,Assault,1100
+2016,Kanchipuram,Theft,1100
+2016,Kanchipuram,Robbery,320
+2016,Kanchipuram,Kidnapping,320
+2016,Kanchipuram,Cyber Crime,800
+2016,Kanchipuram,Road Accident Deaths,214
+2016,Kanchipuram,Economic Crime,1000
+2016,Kanyakumari,Murder,320
+2016,Kanyakumari,Assault,1100
+2016,Kanyakumari,Theft,1100
+2016,Kanyakumari,Robbery,320
+2016,Kanyakumari,Kidnapping,320
+2016,Kanyakumari,Cyber Crime,800
+2016,Kanyakumari,Road Accident Deaths,282
+2016,Kanyakumari,Economic Crime,1000
+2016,Karur,Murder,320
+2016,Karur,Assault,1100
+2016,Karur,Theft,1100
+2016,Karur,Robbery,320
+2016,Karur,Kidnapping,320
+2016,Karur,Cyber Crime,800
+2016,Karur,Road Accident Deaths,361
+2016,Karur,Economic Crime,1000
+2016,Krishnagiri,Murder,320
+2016,Krishnagiri,Assault,1100
+2016,Krishnagiri,Theft,1100
+2016,Krishnagiri,Robbery,320
+2016,Krishnagiri,Kidnapping,320
+2016,Krishnagiri,Cyber Crime,800
+2016,Krishnagiri,Road Accident Deaths,499
+2016,Krishnagiri,Economic Crime,1000
+2016,Madurai,Murder,320
+2016,Madurai,Assault,1100
+2016,Madurai,Theft,1100
+2016,Madurai,Robbery,320
+2016,Madurai,Kidnapping,320
+2016,Madurai,Cyber Crime,800
+2016,Madurai,Road Accident Deaths,486
+2016,Madurai,Economic Crime,1000
+2016,Madurai City,Murder,320
+2016,Madurai City,Assault,1100
+2016,Madurai City,Theft,1100
+2016,Madurai City,Robbery,320
+2016,Madurai City,Kidnapping,320
+2016,Madurai City,Cyber Crime,800
+2016,Madurai City,Road Accident Deaths,139
+2016,Madurai City,Economic Crime,1000
+2016,Nagapattinam,Murder,320
+2016,Nagapattinam,Assault,1100
+2016,Nagapattinam,Theft,1100
+2016,Nagapattinam,Robbery,320
+2016,Nagapattinam,Kidnapping,320
+2016,Nagapattinam,Cyber Crime,800
+2016,Nagapattinam,Road Accident Deaths,202
+2016,Nagapattinam,Economic Crime,1000
+2016,Namakkal,Murder,320
+2016,Namakkal,Assault,1100
+2016,Namakkal,Theft,1100
+2016,Namakkal,Robbery,320
+2016,Namakkal,Kidnapping,320
+2016,Namakkal,Cyber Crime,800
+2016,Namakkal,Road Accident Deaths,379
+2016,Namakkal,Economic Crime,1000
+2016,Nilgiris,Murder,320
+2016,Nilgiris,Assault,1100
+2016,Nilgiris,Theft,1100
+2016,Nilgiris,Robbery,320
+2016,Nilgiris,Kidnapping,320
+2016,Nilgiris,Cyber Crime,800
+2016,Nilgiris,Road Accident Deaths,29
+2016,Nilgiris,Economic Crime,1000
+2016,Perambalur,Murder,320
+2016,Perambalur,Assault,1100
+2016,Perambalur,Theft,1100
+2016,Perambalur,Robbery,320
+2016,Perambalur,Kidnapping,320
+2016,Perambalur,Cyber Crime,800
+2016,Perambalur,Road Accident Deaths,150
+2016,Perambalur,Economic Crime,1000
+2016,Pudukottai,Murder,320
+2016,Pudukottai,Assault,1100
+2016,Pudukottai,Theft,1100
+2016,Pudukottai,Robbery,320
+2016,Pudukottai,Kidnapping,320
+2016,Pudukottai,Cyber Crime,800
+2016,Pudukottai,Road Accident Deaths,331
+2016,Pudukottai,Economic Crime,1000
+2016,Ramnathapuram,Murder,320
+2016,Ramnathapuram,Assault,1100
+2016,Ramnathapuram,Theft,1100
+2016,Ramnathapuram,Robbery,320
+2016,Ramnathapuram,Kidnapping,320
+2016,Ramnathapuram,Cyber Crime,800
+2016,Ramnathapuram,Road Accident Deaths,292
+2016,Ramnathapuram,Economic Crime,1000
+2016,Railway Chennai,Murder,320
+2016,Railway Chennai,Assault,1100
+2016,Railway Chennai,Theft,1100
+2016,Railway Chennai,Robbery,320
+2016,Railway Chennai,Kidnapping,320
+2016,Railway Chennai,Cyber Crime,800
+2016,Railway Chennai,Road Accident Deaths,0
+2016,Railway Chennai,Economic Crime,1000
+2016,Railway Trichy,Murder,320
+2016,Railway Trichy,Assault,1100
+2016,Railway Trichy,Theft,1100
+2016,Railway Trichy,Robbery,320
+2016,Railway Trichy,Kidnapping,320
+2016,Railway Trichy,Cyber Crime,800
+2016,Railway Trichy,Road Accident Deaths,0
+2016,Railway Trichy,Economic Crime,1000
+2016,Salem,Murder,320
+2016,Salem,Assault,1100
+2016,Salem,Theft,1100
+2016,Salem,Robbery,320
+2016,Salem,Kidnapping,320
+2016,Salem,Cyber Crime,800
+2016,Salem,Road Accident Deaths,514
+2016,Salem,Economic Crime,1000
+2016,Salem City,Murder,320
+2016,Salem City,Assault,1100
+2016,Salem City,Theft,1100
+2016,Salem City,Robbery,320
+2016,Salem City,Kidnapping,320
+2016,Salem City,Cyber Crime,800
+2016,Salem City,Road Accident Deaths,135
+2016,Salem City,Economic Crime,1000
+2016,Sivagangai,Murder,320
+2016,Sivagangai,Assault,1100
+2016,Sivagangai,Theft,1100
+2016,Sivagangai,Robbery,320
+2016,Sivagangai,Kidnapping,320
+2016,Sivagangai,Cyber Crime,800
+2016,Sivagangai,Road Accident Deaths,294
+2016,Sivagangai,Economic Crime,1000
+2016,Thanjavur,Murder,320
+2016,Thanjavur,Assault,1100
+2016,Thanjavur,Theft,1100
+2016,Thanjavur,Robbery,320
+2016,Thanjavur,Kidnapping,320
+2016,Thanjavur,Cyber Crime,800
+2016,Thanjavur,Road Accident Deaths,382
+2016,Thanjavur,Economic Crime,1000
+2016,Theni,Murder,320
+2016,Theni,Assault,1100
+2016,Theni,Theft,1100
+2016,Theni,Robbery,320
+2016,Theni,Kidnapping,320
+2016,Theni,Cyber Crime,800
+2016,Theni,Road Accident Deaths,207
+2016,Theni,Economic Crime,1000
+2016,Thirunelveli,Murder,320
+2016,Thirunelveli,Assault,1100
+2016,Thirunelveli,Theft,1100
+2016,Thirunelveli,Robbery,320
+2016,Thirunelveli,Kidnapping,320
+2016,Thirunelveli,Cyber Crime,800
+2016,Thirunelveli,Road Accident Deaths,243
+2016,Thirunelveli,Economic Crime,1000
+2016,Thirunelveli City,Murder,320
+2016,Thirunelveli City,Assault,1100
+2016,Thirunelveli City,Theft,1100
+2016,Thirunelveli City,Robbery,320
+2016,Thirunelveli City,Kidnapping,320
+2016,Thirunelveli City,Cyber Crime,800
+2016,Thirunelveli City,Road Accident Deaths,69
+2016,Thirunelveli City,Economic Crime,1000
+2016,Thiruvallur,Murder,320
+2016,Thiruvallur,Assault,1100
+2016,Thiruvallur,Theft,1100
+2016,Thiruvallur,Robbery,320
+2016,Thiruvallur,Kidnapping,320
+2016,Thiruvallur,Cyber Crime,800
+2016,Thiruvallur,Road Accident Deaths,292
+2016,Thiruvallur,Economic Crime,1000
+2016,Thiruvannamalai,Murder,320
+2016,Thiruvannamalai,Assault,1100
+2016,Thiruvannamalai,Theft,1100
+2016,Thiruvannamalai,Robbery,320
+2016,Thiruvannamalai,Kidnapping,320
+2016,Thiruvannamalai,Cyber Crime,800
+2016,Thiruvannamalai,Road Accident Deaths,450
+2016,Thiruvannamalai,Economic Crime,1000
+2016,Thiruvarur,Murder,320
+2016,Thiruvarur,Assault,1100
+2016,Thiruvarur,Theft,1100
+2016,Thiruvarur,Robbery,320
+2016,Thiruvarur,Kidnapping,320
+2016,Thiruvarur,Cyber Crime,800
+2016,Thiruvarur,Road Accident Deaths,149
+2016,Thiruvarur,Economic Crime,1000
+2016,Thoothukudi,Murder,320
+2016,Thoothukudi,Assault,1100
+2016,Thoothukudi,Theft,1100
+2016,Thoothukudi,Robbery,320
+2016,Thoothukudi,Kidnapping,320
+2016,Thoothukudi,Cyber Crime,800
+2016,Thoothukudi,Road Accident Deaths,341
+2016,Thoothukudi,Economic Crime,1000
+2016,Tiruppur,Murder,320
+2016,Tiruppur,Assault,1100
+2016,Tiruppur,Theft,1100
+2016,Tiruppur,Robbery,320
+2016,Tiruppur,Kidnapping,320
+2016,Tiruppur,Cyber Crime,800
+2016,Tiruppur,Road Accident Deaths,574
+2016,Tiruppur,Economic Crime,1000
+2016,Tiruppur City,Murder,320
+2016,Tiruppur City,Assault,1100
+2016,Tiruppur City,Theft,1100
+2016,Tiruppur City,Robbery,320
+2016,Tiruppur City,Kidnapping,320
+2016,Tiruppur City,Cyber Crime,800
+2016,Tiruppur City,Road Accident Deaths,132
+2016,Tiruppur City,Economic Crime,1000
+2016,Trichy,Murder,320
+2016,Trichy,Assault,1100
+2016,Trichy,Theft,1100
+2016,Trichy,Robbery,320
+2016,Trichy,Kidnapping,320
+2016,Trichy,Cyber Crime,800
+2016,Trichy,Road Accident Deaths,458
+2016,Trichy,Economic Crime,1000
+2016,Trichy City,Murder,320
+2016,Trichy City,Assault,1100
+2016,Trichy City,Theft,1100
+2016,Trichy City,Robbery,320
+2016,Trichy City,Kidnapping,320
+2016,Trichy City,Cyber Crime,800
+2016,Trichy City,Road Accident Deaths,115
+2016,Trichy City,Economic Crime,1000
+2016,Vellore,Murder,320
+2016,Vellore,Assault,1100
+2016,Vellore,Theft,1100
+2016,Vellore,Robbery,320
+2016,Vellore,Kidnapping,320
+2016,Vellore,Cyber Crime,800
+2016,Vellore,Road Accident Deaths,218
+2016,Vellore,Economic Crime,1000
+2016,Villupuram,Murder,320
+2016,Villupuram,Assault,1100
+2016,Villupuram,Theft,1100
+2016,Villupuram,Robbery,320
+2016,Villupuram,Kidnapping,320
+2016,Villupuram,Cyber Crime,800
+2016,Villupuram,Road Accident Deaths,462
+2016,Villupuram,Economic Crime,1000
+2016,Virudhunagar,Murder,320
+2016,Virudhunagar,Assault,1100
+2016,Virudhunagar,Theft,1100
+2016,Virudhunagar,Robbery,320
+2016,Virudhunagar,Kidnapping,320
+2016,Virudhunagar,Cyber Crime,800
+2016,Virudhunagar,Road Accident Deaths,379
+2016,Virudhunagar,Economic Crime,1000
+2016,Cyber Cell,Murder,320
+2016,Cyber Cell,Assault,1100
+2016,Cyber Cell,Theft,1100
+2016,Cyber Cell,Robbery,320
+2016,Cyber Cell,Kidnapping,320
+2016,Cyber Cell,Cyber Crime,800
+2016,Cyber Cell,Road Accident Deaths,0
+2016,Cyber Cell,Economic Crime,1000
+2016,Other Units,Murder,320
+2016,Other Units,Assault,1100
+2016,Other Units,Theft,1100
+2016,Other Units,Robbery,320
+2016,Other Units,Kidnapping,320
+2016,Other Units,Cyber Crime,800
+2016,Other Units,Road Accident Deaths,0
+2016,Other Units,Economic Crime,1000
+2016,Chengalpattu,Murder,320
+2016,Chengalpattu,Assault,1100
+2016,Chengalpattu,Theft,1100
+2016,Chengalpattu,Robbery,320
+2016,Chengalpattu,Kidnapping,320
+2016,Chengalpattu,Cyber Crime,800
+2016,Chengalpattu,Road Accident Deaths,415
+2016,Chengalpattu,Economic Crime,1000
+2016,Kallakurichi,Murder,320
+2016,Kallakurichi,Assault,1100
+2016,Kallakurichi,Theft,1100
+2016,Kallakurichi,Robbery,320
+2016,Kallakurichi,Kidnapping,320
+2016,Kallakurichi,Cyber Crime,800
+2016,Kallakurichi,Road Accident Deaths,234
+2016,Kallakurichi,Economic Crime,1000
+2016,Ranipet,Murder,320
+2016,Ranipet,Assault,1100
+2016,Ranipet,Theft,1100
+2016,Ranipet,Robbery,320
+2016,Ranipet,Kidnapping,320
+2016,Ranipet,Cyber Crime,800
+2016,Ranipet,Road Accident Deaths,219
+2016,Ranipet,Economic Crime,1000
+2016,Tiruppattur,Murder,320
+2016,Tiruppattur,Assault,1100
+2016,Tiruppattur,Theft,1100
+2016,Tiruppattur,Robbery,320
+2016,Tiruppattur,Kidnapping,320
+2016,Tiruppattur,Cyber Crime,800
+2016,Tiruppattur,Road Accident Deaths,200
+2016,Tiruppattur,Economic Crime,1000
+2016,Tenkasi,Murder,320
+2016,Tenkasi,Assault,1100
+2016,Tenkasi,Theft,1100
+2016,Tenkasi,Robbery,320
+2016,Tenkasi,Kidnapping,320
+2016,Tenkasi,Cyber Crime,800
+2016,Tenkasi,Road Accident Deaths,207
+2016,Tenkasi,Economic Crime,1000
+2016,TOTAL,Murder,320
+2016,TOTAL,Assault,1100
+2016,TOTAL,Theft,1100
+2016,TOTAL,Robbery,320
+2016,TOTAL,Kidnapping,320
+2016,TOTAL,Cyber Crime,800
+2016,TOTAL,Road Accident Deaths,13567
+2016,TOTAL,Economic Crime,1000
+2017,Ariyalur,Murder,330
+2017,Ariyalur,Assault,1150
+2017,Ariyalur,Theft,1150
+2017,Ariyalur,Robbery,330
+2017,Ariyalur,Kidnapping,330
+2017,Ariyalur,Cyber Crime,950
+2017,Ariyalur,Road Accident Deaths,151
+2017,Ariyalur,Economic Crime,1100
+2017,Chennai,Murder,330
+2017,Chennai,Assault,1150
+2017,Chennai,Theft,1150
+2017,Chennai,Robbery,330
+2017,Chennai,Kidnapping,330
+2017,Chennai,Cyber Crime,950
+2017,Chennai,Road Accident Deaths,916
+2017,Chennai,Economic Crime,1100
+2017,Coimbatore,Murder,330
+2017,Coimbatore,Assault,1150
+2017,Coimbatore,Theft,1150
+2017,Coimbatore,Robbery,330
+2017,Coimbatore,Kidnapping,330
+2017,Coimbatore,Cyber Crime,950
+2017,Coimbatore,Road Accident Deaths,557
+2017,Coimbatore,Economic Crime,1100
+2017,Coimbatore  City,Murder,330
+2017,Coimbatore  City,Assault,1150
+2017,Coimbatore  City,Theft,1150
+2017,Coimbatore  City,Robbery,330
+2017,Coimbatore  City,Kidnapping,330
+2017,Coimbatore  City,Cyber Crime,950
+2017,Coimbatore  City,Road Accident Deaths,218
+2017,Coimbatore  City,Economic Crime,1100
+2017,Cuddalore,Murder,330
+2017,Cuddalore,Assault,1150
+2017,Cuddalore,Theft,1150
+2017,Cuddalore,Robbery,330
+2017,Cuddalore,Kidnapping,330
+2017,Cuddalore,Cyber Crime,950
+2017,Cuddalore,Road Accident Deaths,493
+2017,Cuddalore,Economic Crime,1100
+2017,Dharmapuri,Murder,330
+2017,Dharmapuri,Assault,1150
+2017,Dharmapuri,Theft,1150
+2017,Dharmapuri,Robbery,330
+2017,Dharmapuri,Kidnapping,330
+2017,Dharmapuri,Cyber Crime,950
+2017,Dharmapuri,Road Accident Deaths,289
+2017,Dharmapuri,Economic Crime,1100
+2017,Dindigul,Murder,330
+2017,Dindigul,Assault,1150
+2017,Dindigul,Theft,1150
+2017,Dindigul,Robbery,330
+2017,Dindigul,Kidnapping,330
+2017,Dindigul,Cyber Crime,950
+2017,Dindigul,Road Accident Deaths,478
+2017,Dindigul,Economic Crime,1100
+2017,Erode,Murder,330
+2017,Erode,Assault,1150
+2017,Erode,Theft,1150
+2017,Erode,Robbery,330
+2017,Erode,Kidnapping,330
+2017,Erode,Cyber Crime,950
+2017,Erode,Road Accident Deaths,464
+2017,Erode,Economic Crime,1100
+2017,Kanchipuram,Murder,330
+2017,Kanchipuram,Assault,1150
+2017,Kanchipuram,Theft,1150
+2017,Kanchipuram,Robbery,330
+2017,Kanchipuram,Kidnapping,330
+2017,Kanchipuram,Cyber Crime,950
+2017,Kanchipuram,Road Accident Deaths,219
+2017,Kanchipuram,Economic Crime,1100
+2017,Kanyakumari,Murder,330
+2017,Kanyakumari,Assault,1150
+2017,Kanyakumari,Theft,1150
+2017,Kanyakumari,Robbery,330
+2017,Kanyakumari,Kidnapping,330
+2017,Kanyakumari,Cyber Crime,950
+2017,Kanyakumari,Road Accident Deaths,288
+2017,Kanyakumari,Economic Crime,1100
+2017,Karur,Murder,330
+2017,Karur,Assault,1150
+2017,Karur,Theft,1150
+2017,Karur,Robbery,330
+2017,Karur,Kidnapping,330
+2017,Karur,Cyber Crime,950
+2017,Karur,Road Accident Deaths,369
+2017,Karur,Economic Crime,1100
+2017,Krishnagiri,Murder,330
+2017,Krishnagiri,Assault,1150
+2017,Krishnagiri,Theft,1150
+2017,Krishnagiri,Robbery,330
+2017,Krishnagiri,Kidnapping,330
+2017,Krishnagiri,Cyber Crime,950
+2017,Krishnagiri,Road Accident Deaths,510
+2017,Krishnagiri,Economic Crime,1100
+2017,Madurai,Murder,330
+2017,Madurai,Assault,1150
+2017,Madurai,Theft,1150
+2017,Madurai,Robbery,330
+2017,Madurai,Kidnapping,330
+2017,Madurai,Cyber Crime,950
+2017,Madurai,Road Accident Deaths,497
+2017,Madurai,Economic Crime,1100
+2017,Madurai City,Murder,330
+2017,Madurai City,Assault,1150
+2017,Madurai City,Theft,1150
+2017,Madurai City,Robbery,330
+2017,Madurai City,Kidnapping,330
+2017,Madurai City,Cyber Crime,950
+2017,Madurai City,Road Accident Deaths,142
+2017,Madurai City,Economic Crime,1100
+2017,Nagapattinam,Murder,330
+2017,Nagapattinam,Assault,1150
+2017,Nagapattinam,Theft,1150
+2017,Nagapattinam,Robbery,330
+2017,Nagapattinam,Kidnapping,330
+2017,Nagapattinam,Cyber Crime,950
+2017,Nagapattinam,Road Accident Deaths,206
+2017,Nagapattinam,Economic Crime,1100
+2017,Namakkal,Murder,330
+2017,Namakkal,Assault,1150
+2017,Namakkal,Theft,1150
+2017,Namakkal,Robbery,330
+2017,Namakkal,Kidnapping,330
+2017,Namakkal,Cyber Crime,950
+2017,Namakkal,Road Accident Deaths,388
+2017,Namakkal,Economic Crime,1100
+2017,Nilgiris,Murder,330
+2017,Nilgiris,Assault,1150
+2017,Nilgiris,Theft,1150
+2017,Nilgiris,Robbery,330
+2017,Nilgiris,Kidnapping,330
+2017,Nilgiris,Cyber Crime,950
+2017,Nilgiris,Road Accident Deaths,30
+2017,Nilgiris,Economic Crime,1100
+2017,Perambalur,Murder,330
+2017,Perambalur,Assault,1150
+2017,Perambalur,Theft,1150
+2017,Perambalur,Robbery,330
+2017,Perambalur,Kidnapping,330
+2017,Perambalur,Cyber Crime,950
+2017,Perambalur,Road Accident Deaths,154
+2017,Perambalur,Economic Crime,1100
+2017,Pudukottai,Murder,330
+2017,Pudukottai,Assault,1150
+2017,Pudukottai,Theft,1150
+2017,Pudukottai,Robbery,330
+2017,Pudukottai,Kidnapping,330
+2017,Pudukottai,Cyber Crime,950
+2017,Pudukottai,Road Accident Deaths,338
+2017,Pudukottai,Economic Crime,1100
+2017,Ramnathapuram,Murder,330
+2017,Ramnathapuram,Assault,1150
+2017,Ramnathapuram,Theft,1150
+2017,Ramnathapuram,Robbery,330
+2017,Ramnathapuram,Kidnapping,330
+2017,Ramnathapuram,Cyber Crime,950
+2017,Ramnathapuram,Road Accident Deaths,298
+2017,Ramnathapuram,Economic Crime,1100
+2017,Railway Chennai,Murder,330
+2017,Railway Chennai,Assault,1150
+2017,Railway Chennai,Theft,1150
+2017,Railway Chennai,Robbery,330
+2017,Railway Chennai,Kidnapping,330
+2017,Railway Chennai,Cyber Crime,950
+2017,Railway Chennai,Road Accident Deaths,0
+2017,Railway Chennai,Economic Crime,1100
+2017,Railway Trichy,Murder,330
+2017,Railway Trichy,Assault,1150
+2017,Railway Trichy,Theft,1150
+2017,Railway Trichy,Robbery,330
+2017,Railway Trichy,Kidnapping,330
+2017,Railway Trichy,Cyber Crime,950
+2017,Railway Trichy,Road Accident Deaths,0
+2017,Railway Trichy,Economic Crime,1100
+2017,Salem,Murder,330
+2017,Salem,Assault,1150
+2017,Salem,Theft,1150
+2017,Salem,Robbery,330
+2017,Salem,Kidnapping,330
+2017,Salem,Cyber Crime,950
+2017,Salem,Road Accident Deaths,525
+2017,Salem,Economic Crime,1100
+2017,Salem City,Murder,330
+2017,Salem City,Assault,1150
+2017,Salem City,Theft,1150
+2017,Salem City,Robbery,330
+2017,Salem City,Kidnapping,330
+2017,Salem City,Cyber Crime,950
+2017,Salem City,Road Accident Deaths,138
+2017,Salem City,Economic Crime,1100
+2017,Sivagangai,Murder,330
+2017,Sivagangai,Assault,1150
+2017,Sivagangai,Theft,1150
+2017,Sivagangai,Robbery,330
+2017,Sivagangai,Kidnapping,330
+2017,Sivagangai,Cyber Crime,950
+2017,Sivagangai,Road Accident Deaths,300
+2017,Sivagangai,Economic Crime,1100
+2017,Thanjavur,Murder,330
+2017,Thanjavur,Assault,1150
+2017,Thanjavur,Theft,1150
+2017,Thanjavur,Robbery,330
+2017,Thanjavur,Kidnapping,330
+2017,Thanjavur,Cyber Crime,950
+2017,Thanjavur,Road Accident Deaths,391
+2017,Thanjavur,Economic Crime,1100
+2017,Theni,Murder,330
+2017,Theni,Assault,1150
+2017,Theni,Theft,1150
+2017,Theni,Robbery,330
+2017,Theni,Kidnapping,330
+2017,Theni,Cyber Crime,950
+2017,Theni,Road Accident Deaths,212
+2017,Theni,Economic Crime,1100
+2017,Thirunelveli,Murder,330
+2017,Thirunelveli,Assault,1150
+2017,Thirunelveli,Theft,1150
+2017,Thirunelveli,Robbery,330
+2017,Thirunelveli,Kidnapping,330
+2017,Thirunelveli,Cyber Crime,950
+2017,Thirunelveli,Road Accident Deaths,249
+2017,Thirunelveli,Economic Crime,1100
+2017,Thirunelveli City,Murder,330
+2017,Thirunelveli City,Assault,1150
+2017,Thirunelveli City,Theft,1150
+2017,Thirunelveli City,Robbery,330
+2017,Thirunelveli City,Kidnapping,330
+2017,Thirunelveli City,Cyber Crime,950
+2017,Thirunelveli City,Road Accident Deaths,71
+2017,Thirunelveli City,Economic Crime,1100
+2017,Thiruvallur,Murder,330
+2017,Thiruvallur,Assault,1150
+2017,Thiruvallur,Theft,1150
+2017,Thiruvallur,Robbery,330
+2017,Thiruvallur,Kidnapping,330
+2017,Thiruvallur,Cyber Crime,950
+2017,Thiruvallur,Road Accident Deaths,298
+2017,Thiruvallur,Economic Crime,1100
+2017,Thiruvannamalai,Murder,330
+2017,Thiruvannamalai,Assault,1150
+2017,Thiruvannamalai,Theft,1150
+2017,Thiruvannamalai,Robbery,330
+2017,Thiruvannamalai,Kidnapping,330
+2017,Thiruvannamalai,Cyber Crime,950
+2017,Thiruvannamalai,Road Accident Deaths,460
+2017,Thiruvannamalai,Economic Crime,1100
+2017,Thiruvarur,Murder,330
+2017,Thiruvarur,Assault,1150
+2017,Thiruvarur,Theft,1150
+2017,Thiruvarur,Robbery,330
+2017,Thiruvarur,Kidnapping,330
+2017,Thiruvarur,Cyber Crime,950
+2017,Thiruvarur,Road Accident Deaths,152
+2017,Thiruvarur,Economic Crime,1100
+2017,Thoothukudi,Murder,330
+2017,Thoothukudi,Assault,1150
+2017,Thoothukudi,Theft,1150
+2017,Thoothukudi,Robbery,330
+2017,Thoothukudi,Kidnapping,330
+2017,Thoothukudi,Cyber Crime,950
+2017,Thoothukudi,Road Accident Deaths,348
+2017,Thoothukudi,Economic Crime,1100
+2017,Tiruppur,Murder,330
+2017,Tiruppur,Assault,1150
+2017,Tiruppur,Theft,1150
+2017,Tiruppur,Robbery,330
+2017,Tiruppur,Kidnapping,330
+2017,Tiruppur,Cyber Crime,950
+2017,Tiruppur,Road Accident Deaths,586
+2017,Tiruppur,Economic Crime,1100
+2017,Tiruppur City,Murder,330
+2017,Tiruppur City,Assault,1150
+2017,Tiruppur City,Theft,1150
+2017,Tiruppur City,Robbery,330
+2017,Tiruppur City,Kidnapping,330
+2017,Tiruppur City,Cyber Crime,950
+2017,Tiruppur City,Road Accident Deaths,135
+2017,Tiruppur City,Economic Crime,1100
+2017,Trichy,Murder,330
+2017,Trichy,Assault,1150
+2017,Trichy,Theft,1150
+2017,Trichy,Robbery,330
+2017,Trichy,Kidnapping,330
+2017,Trichy,Cyber Crime,950
+2017,Trichy,Road Accident Deaths,468
+2017,Trichy,Economic Crime,1100
+2017,Trichy City,Murder,330
+2017,Trichy City,Assault,1150
+2017,Trichy City,Theft,1150
+2017,Trichy City,Robbery,330
+2017,Trichy City,Kidnapping,330
+2017,Trichy City,Cyber Crime,950
+2017,Trichy City,Road Accident Deaths,118
+2017,Trichy City,Economic Crime,1100
+2017,Vellore,Murder,330
+2017,Vellore,Assault,1150
+2017,Vellore,Theft,1150
+2017,Vellore,Robbery,330
+2017,Vellore,Kidnapping,330
+2017,Vellore,Cyber Crime,950
+2017,Vellore,Road Accident Deaths,223
+2017,Vellore,Economic Crime,1100
+2017,Villupuram,Murder,330
+2017,Villupuram,Assault,1150
+2017,Villupuram,Theft,1150
+2017,Villupuram,Robbery,330
+2017,Villupuram,Kidnapping,330
+2017,Villupuram,Cyber Crime,950
+2017,Villupuram,Road Accident Deaths,472
+2017,Villupuram,Economic Crime,1100
+2017,Virudhunagar,Murder,330
+2017,Virudhunagar,Assault,1150
+2017,Virudhunagar,Theft,1150
+2017,Virudhunagar,Robbery,330
+2017,Virudhunagar,Kidnapping,330
+2017,Virudhunagar,Cyber Crime,950
+2017,Virudhunagar,Road Accident Deaths,388
+2017,Virudhunagar,Economic Crime,1100
+2017,Cyber Cell,Murder,330
+2017,Cyber Cell,Assault,1150
+2017,Cyber Cell,Theft,1150
+2017,Cyber Cell,Robbery,330
+2017,Cyber Cell,Kidnapping,330
+2017,Cyber Cell,Cyber Crime,950
+2017,Cyber Cell,Road Accident Deaths,0
+2017,Cyber Cell,Economic Crime,1100
+2017,Other Units,Murder,330
+2017,Other Units,Assault,1150
+2017,Other Units,Theft,1150
+2017,Other Units,Robbery,330
+2017,Other Units,Kidnapping,330
+2017,Other Units,Cyber Crime,950
+2017,Other Units,Road Accident Deaths,0
+2017,Other Units,Economic Crime,1100
+2017,Chengalpattu,Murder,330
+2017,Chengalpattu,Assault,1150
+2017,Chengalpattu,Theft,1150
+2017,Chengalpattu,Robbery,330
+2017,Chengalpattu,Kidnapping,330
+2017,Chengalpattu,Cyber Crime,950
+2017,Chengalpattu,Road Accident Deaths,424
+2017,Chengalpattu,Economic Crime,1100
+2017,Kallakurichi,Murder,330
+2017,Kallakurichi,Assault,1150
+2017,Kallakurichi,Theft,1150
+2017,Kallakurichi,Robbery,330
+2017,Kallakurichi,Kidnapping,330
+2017,Kallakurichi,Cyber Crime,950
+2017,Kallakurichi,Road Accident Deaths,239
+2017,Kallakurichi,Economic Crime,1100
+2017,Ranipet,Murder,330
+2017,Ranipet,Assault,1150
+2017,Ranipet,Theft,1150
+2017,Ranipet,Robbery,330
+2017,Ranipet,Kidnapping,330
+2017,Ranipet,Cyber Crime,950
+2017,Ranipet,Road Accident Deaths,224
+2017,Ranipet,Economic Crime,1100
+2017,Tiruppattur,Murder,330
+2017,Tiruppattur,Assault,1150
+2017,Tiruppattur,Theft,1150
+2017,Tiruppattur,Robbery,330
+2017,Tiruppattur,Kidnapping,330
+2017,Tiruppattur,Cyber Crime,950
+2017,Tiruppattur,Road Accident Deaths,204
+2017,Tiruppattur,Economic Crime,1100
+2017,Tenkasi,Murder,330
+2017,Tenkasi,Assault,1150
+2017,Tenkasi,Theft,1150
+2017,Tenkasi,Robbery,330
+2017,Tenkasi,Kidnapping,330
+2017,Tenkasi,Cyber Crime,950
+2017,Tenkasi,Road Accident Deaths,211
+2017,Tenkasi,Economic Crime,1100
+2017,TOTAL,Murder,330
+2017,TOTAL,Assault,1150
+2017,TOTAL,Theft,1150
+2017,TOTAL,Robbery,330
+2017,TOTAL,Kidnapping,330
+2017,TOTAL,Cyber Crime,950
+2017,TOTAL,Road Accident Deaths,13862
+2017,TOTAL,Economic Crime,1100
+2018,Ariyalur,Murder,340
+2018,Ariyalur,Assault,1200
+2018,Ariyalur,Theft,1200
+2018,Ariyalur,Robbery,340
+2018,Ariyalur,Kidnapping,340
+2018,Ariyalur,Cyber Crime,1100
+2018,Ariyalur,Road Accident Deaths,154
+2018,Ariyalur,Economic Crime,1200
+2018,Chennai,Murder,340
+2018,Chennai,Assault,1200
+2018,Chennai,Theft,1200
+2018,Chennai,Robbery,340
+2018,Chennai,Kidnapping,340
+2018,Chennai,Cyber Crime,1100
+2018,Chennai,Road Accident Deaths,936
+2018,Chennai,Economic Crime,1200
+2018,Coimbatore,Murder,340
+2018,Coimbatore,Assault,1200
+2018,Coimbatore,Theft,1200
+2018,Coimbatore,Robbery,340
+2018,Coimbatore,Kidnapping,340
+2018,Coimbatore,Cyber Crime,1100
+2018,Coimbatore,Road Accident Deaths,569
+2018,Coimbatore,Economic Crime,1200
+2018,Coimbatore  City,Murder,340
+2018,Coimbatore  City,Assault,1200
+2018,Coimbatore  City,Theft,1200
+2018,Coimbatore  City,Robbery,340
+2018,Coimbatore  City,Kidnapping,340
+2018,Coimbatore  City,Cyber Crime,1100
+2018,Coimbatore  City,Road Accident Deaths,222
+2018,Coimbatore  City,Economic Crime,1200
+2018,Cuddalore,Murder,340
+2018,Cuddalore,Assault,1200
+2018,Cuddalore,Theft,1200
+2018,Cuddalore,Robbery,340
+2018,Cuddalore,Kidnapping,340
+2018,Cuddalore,Cyber Crime,1100
+2018,Cuddalore,Road Accident Deaths,504
+2018,Cuddalore,Economic Crime,1200
+2018,Dharmapuri,Murder,340
+2018,Dharmapuri,Assault,1200
+2018,Dharmapuri,Theft,1200
+2018,Dharmapuri,Robbery,340
+2018,Dharmapuri,Kidnapping,340
+2018,Dharmapuri,Cyber Crime,1100
+2018,Dharmapuri,Road Accident Deaths,295
+2018,Dharmapuri,Economic Crime,1200
+2018,Dindigul,Murder,340
+2018,Dindigul,Assault,1200
+2018,Dindigul,Theft,1200
+2018,Dindigul,Robbery,340
+2018,Dindigul,Kidnapping,340
+2018,Dindigul,Cyber Crime,1100
+2018,Dindigul,Road Accident Deaths,488
+2018,Dindigul,Economic Crime,1200
+2018,Erode,Murder,340
+2018,Erode,Assault,1200
+2018,Erode,Theft,1200
+2018,Erode,Robbery,340
+2018,Erode,Kidnapping,340
+2018,Erode,Cyber Crime,1100
+2018,Erode,Road Accident Deaths,474
+2018,Erode,Economic Crime,1200
+2018,Kanchipuram,Murder,340
+2018,Kanchipuram,Assault,1200
+2018,Kanchipuram,Theft,1200
+2018,Kanchipuram,Robbery,340
+2018,Kanchipuram,Kidnapping,340
+2018,Kanchipuram,Cyber Crime,1100
+2018,Kanchipuram,Road Accident Deaths,223
+2018,Kanchipuram,Economic Crime,1200
+2018,Kanyakumari,Murder,340
+2018,Kanyakumari,Assault,1200
+2018,Kanyakumari,Theft,1200
+2018,Kanyakumari,Robbery,340
+2018,Kanyakumari,Kidnapping,340
+2018,Kanyakumari,Cyber Crime,1100
+2018,Kanyakumari,Road Accident Deaths,294
+2018,Kanyakumari,Economic Crime,1200
+2018,Karur,Murder,340
+2018,Karur,Assault,1200
+2018,Karur,Theft,1200
+2018,Karur,Robbery,340
+2018,Karur,Kidnapping,340
+2018,Karur,Cyber Crime,1100
+2018,Karur,Road Accident Deaths,377
+2018,Karur,Economic Crime,1200
+2018,Krishnagiri,Murder,340
+2018,Krishnagiri,Assault,1200
+2018,Krishnagiri,Theft,1200
+2018,Krishnagiri,Robbery,340
+2018,Krishnagiri,Kidnapping,340
+2018,Krishnagiri,Cyber Crime,1100
+2018,Krishnagiri,Road Accident Deaths,521
+2018,Krishnagiri,Economic Crime,1200
+2018,Madurai,Murder,340
+2018,Madurai,Assault,1200
+2018,Madurai,Theft,1200
+2018,Madurai,Robbery,340
+2018,Madurai,Kidnapping,340
+2018,Madurai,Cyber Crime,1100
+2018,Madurai,Road Accident Deaths,507
+2018,Madurai,Economic Crime,1200
+2018,Madurai City,Murder,340
+2018,Madurai City,Assault,1200
+2018,Madurai City,Theft,1200
+2018,Madurai City,Robbery,340
+2018,Madurai City,Kidnapping,340
+2018,Madurai City,Cyber Crime,1100
+2018,Madurai City,Road Accident Deaths,145
+2018,Madurai City,Economic Crime,1200
+2018,Nagapattinam,Murder,340
+2018,Nagapattinam,Assault,1200
+2018,Nagapattinam,Theft,1200
+2018,Nagapattinam,Robbery,340
+2018,Nagapattinam,Kidnapping,340
+2018,Nagapattinam,Cyber Crime,1100
+2018,Nagapattinam,Road Accident Deaths,211
+2018,Nagapattinam,Economic Crime,1200
+2018,Namakkal,Murder,340
+2018,Namakkal,Assault,1200
+2018,Namakkal,Theft,1200
+2018,Namakkal,Robbery,340
+2018,Namakkal,Kidnapping,340
+2018,Namakkal,Cyber Crime,1100
+2018,Namakkal,Road Accident Deaths,396
+2018,Namakkal,Economic Crime,1200
+2018,Nilgiris,Murder,340
+2018,Nilgiris,Assault,1200
+2018,Nilgiris,Theft,1200
+2018,Nilgiris,Robbery,340
+2018,Nilgiris,Kidnapping,340
+2018,Nilgiris,Cyber Crime,1100
+2018,Nilgiris,Road Accident Deaths,30
+2018,Nilgiris,Economic Crime,1200
+2018,Perambalur,Murder,340
+2018,Perambalur,Assault,1200
+2018,Perambalur,Theft,1200
+2018,Perambalur,Robbery,340
+2018,Perambalur,Kidnapping,340
+2018,Perambalur,Cyber Crime,1100
+2018,Perambalur,Road Accident Deaths,157
+2018,Perambalur,Economic Crime,1200
+2018,Pudukottai,Murder,340
+2018,Pudukottai,Assault,1200
+2018,Pudukottai,Theft,1200
+2018,Pudukottai,Robbery,340
+2018,Pudukottai,Kidnapping,340
+2018,Pudukottai,Cyber Crime,1100
+2018,Pudukottai,Road Accident Deaths,345
+2018,Pudukottai,Economic Crime,1200
+2018,Ramnathapuram,Murder,340
+2018,Ramnathapuram,Assault,1200
+2018,Ramnathapuram,Theft,1200
+2018,Ramnathapuram,Robbery,340
+2018,Ramnathapuram,Kidnapping,340
+2018,Ramnathapuram,Cyber Crime,1100
+2018,Ramnathapuram,Road Accident Deaths,305
+2018,Ramnathapuram,Economic Crime,1200
+2018,Railway Chennai,Murder,340
+2018,Railway Chennai,Assault,1200
+2018,Railway Chennai,Theft,1200
+2018,Railway Chennai,Robbery,340
+2018,Railway Chennai,Kidnapping,340
+2018,Railway Chennai,Cyber Crime,1100
+2018,Railway Chennai,Road Accident Deaths,0
+2018,Railway Chennai,Economic Crime,1200
+2018,Railway Trichy,Murder,340
+2018,Railway Trichy,Assault,1200
+2018,Railway Trichy,Theft,1200
+2018,Railway Trichy,Robbery,340
+2018,Railway Trichy,Kidnapping,340
+2018,Railway Trichy,Cyber Crime,1100
+2018,Railway Trichy,Road Accident Deaths,0
+2018,Railway Trichy,Economic Crime,1200
+2018,Salem,Murder,340
+2018,Salem,Assault,1200
+2018,Salem,Theft,1200
+2018,Salem,Robbery,340
+2018,Salem,Kidnapping,340
+2018,Salem,Cyber Crime,1100
+2018,Salem,Road Accident Deaths,536
+2018,Salem,Economic Crime,1200
+2018,Salem City,Murder,340
+2018,Salem City,Assault,1200
+2018,Salem City,Theft,1200
+2018,Salem City,Robbery,340
+2018,Salem City,Kidnapping,340
+2018,Salem City,Cyber Crime,1100
+2018,Salem City,Road Accident Deaths,141
+2018,Salem City,Economic Crime,1200
+2018,Sivagangai,Murder,340
+2018,Sivagangai,Assault,1200
+2018,Sivagangai,Theft,1200
+2018,Sivagangai,Robbery,340
+2018,Sivagangai,Kidnapping,340
+2018,Sivagangai,Cyber Crime,1100
+2018,Sivagangai,Road Accident Deaths,307
+2018,Sivagangai,Economic Crime,1200
+2018,Thanjavur,Murder,340
+2018,Thanjavur,Assault,1200
+2018,Thanjavur,Theft,1200
+2018,Thanjavur,Robbery,340
+2018,Thanjavur,Kidnapping,340
+2018,Thanjavur,Cyber Crime,1100
+2018,Thanjavur,Road Accident Deaths,399
+2018,Thanjavur,Economic Crime,1200
+2018,Theni,Murder,340
+2018,Theni,Assault,1200
+2018,Theni,Theft,1200
+2018,Theni,Robbery,340
+2018,Theni,Kidnapping,340
+2018,Theni,Cyber Crime,1100
+2018,Theni,Road Accident Deaths,216
+2018,Theni,Economic Crime,1200
+2018,Thirunelveli,Murder,340
+2018,Thirunelveli,Assault,1200
+2018,Thirunelveli,Theft,1200
+2018,Thirunelveli,Robbery,340
+2018,Thirunelveli,Kidnapping,340
+2018,Thirunelveli,Cyber Crime,1100
+2018,Thirunelveli,Road Accident Deaths,254
+2018,Thirunelveli,Economic Crime,1200
+2018,Thirunelveli City,Murder,340
+2018,Thirunelveli City,Assault,1200
+2018,Thirunelveli City,Theft,1200
+2018,Thirunelveli City,Robbery,340
+2018,Thirunelveli City,Kidnapping,340
+2018,Thirunelveli City,Cyber Crime,1100
+2018,Thirunelveli City,Road Accident Deaths,72
+2018,Thirunelveli City,Economic Crime,1200
+2018,Thiruvallur,Murder,340
+2018,Thiruvallur,Assault,1200
+2018,Thiruvallur,Theft,1200
+2018,Thiruvallur,Robbery,340
+2018,Thiruvallur,Kidnapping,340
+2018,Thiruvallur,Cyber Crime,1100
+2018,Thiruvallur,Road Accident Deaths,305
+2018,Thiruvallur,Economic Crime,1200
+2018,Thiruvannamalai,Murder,340
+2018,Thiruvannamalai,Assault,1200
+2018,Thiruvannamalai,Theft,1200
+2018,Thiruvannamalai,Robbery,340
+2018,Thiruvannamalai,Kidnapping,340
+2018,Thiruvannamalai,Cyber Crime,1100
+2018,Thiruvannamalai,Road Accident Deaths,470
+2018,Thiruvannamalai,Economic Crime,1200
+2018,Thiruvarur,Murder,340
+2018,Thiruvarur,Assault,1200
+2018,Thiruvarur,Theft,1200
+2018,Thiruvarur,Robbery,340
+2018,Thiruvarur,Kidnapping,340
+2018,Thiruvarur,Cyber Crime,1100
+2018,Thiruvarur,Road Accident Deaths,155
+2018,Thiruvarur,Economic Crime,1200
+2018,Thoothukudi,Murder,340
+2018,Thoothukudi,Assault,1200
+2018,Thoothukudi,Theft,1200
+2018,Thoothukudi,Robbery,340
+2018,Thoothukudi,Kidnapping,340
+2018,Thoothukudi,Cyber Crime,1100
+2018,Thoothukudi,Road Accident Deaths,356
+2018,Thoothukudi,Economic Crime,1200
+2018,Tiruppur,Murder,340
+2018,Tiruppur,Assault,1200
+2018,Tiruppur,Theft,1200
+2018,Tiruppur,Robbery,340
+2018,Tiruppur,Kidnapping,340
+2018,Tiruppur,Cyber Crime,1100
+2018,Tiruppur,Road Accident Deaths,599
+2018,Tiruppur,Economic Crime,1200
+2018,Tiruppur City,Murder,340
+2018,Tiruppur City,Assault,1200
+2018,Tiruppur City,Theft,1200
+2018,Tiruppur City,Robbery,340
+2018,Tiruppur City,Kidnapping,340
+2018,Tiruppur City,Cyber Crime,1100
+2018,Tiruppur City,Road Accident Deaths,138
+2018,Tiruppur City,Economic Crime,1200
+2018,Trichy,Murder,340
+2018,Trichy,Assault,1200
+2018,Trichy,Theft,1200
+2018,Trichy,Robbery,340
+2018,Trichy,Kidnapping,340
+2018,Trichy,Cyber Crime,1100
+2018,Trichy,Road Accident Deaths,478
+2018,Trichy,Economic Crime,1200
+2018,Trichy City,Murder,340
+2018,Trichy City,Assault,1200
+2018,Trichy City,Theft,1200
+2018,Trichy City,Robbery,340
+2018,Trichy City,Kidnapping,340
+2018,Trichy City,Cyber Crime,1100
+2018,Trichy City,Road Accident Deaths,120
+2018,Trichy City,Economic Crime,1200
+2018,Vellore,Murder,340
+2018,Vellore,Assault,1200
+2018,Vellore,Theft,1200
+2018,Vellore,Robbery,340
+2018,Vellore,Kidnapping,340
+2018,Vellore,Cyber Crime,1100
+2018,Vellore,Road Accident Deaths,228
+2018,Vellore,Economic Crime,1200
+2018,Villupuram,Murder,340
+2018,Villupuram,Assault,1200
+2018,Villupuram,Theft,1200
+2018,Villupuram,Robbery,340
+2018,Villupuram,Kidnapping,340
+2018,Villupuram,Cyber Crime,1100
+2018,Villupuram,Road Accident Deaths,482
+2018,Villupuram,Economic Crime,1200
+2018,Virudhunagar,Murder,340
+2018,Virudhunagar,Assault,1200
+2018,Virudhunagar,Theft,1200
+2018,Virudhunagar,Robbery,340
+2018,Virudhunagar,Kidnapping,340
+2018,Virudhunagar,Cyber Crime,1100
+2018,Virudhunagar,Road Accident Deaths,396
+2018,Virudhunagar,Economic Crime,1200
+2018,Cyber Cell,Murder,340
+2018,Cyber Cell,Assault,1200
+2018,Cyber Cell,Theft,1200
+2018,Cyber Cell,Robbery,340
+2018,Cyber Cell,Kidnapping,340
+2018,Cyber Cell,Cyber Crime,1100
+2018,Cyber Cell,Road Accident Deaths,0
+2018,Cyber Cell,Economic Crime,1200
+2018,Other Units,Murder,340
+2018,Other Units,Assault,1200
+2018,Other Units,Theft,1200
+2018,Other Units,Robbery,340
+2018,Other Units,Kidnapping,340
+2018,Other Units,Cyber Crime,1100
+2018,Other Units,Road Accident Deaths,0
+2018,Other Units,Economic Crime,1200
+2018,Chengalpattu,Murder,340
+2018,Chengalpattu,Assault,1200
+2018,Chengalpattu,Theft,1200
+2018,Chengalpattu,Robbery,340
+2018,Chengalpattu,Kidnapping,340
+2018,Chengalpattu,Cyber Crime,1100
+2018,Chengalpattu,Road Accident Deaths,433
+2018,Chengalpattu,Economic Crime,1200
+2018,Kallakurichi,Murder,340
+2018,Kallakurichi,Assault,1200
+2018,Kallakurichi,Theft,1200
+2018,Kallakurichi,Robbery,340
+2018,Kallakurichi,Kidnapping,340
+2018,Kallakurichi,Cyber Crime,1100
+2018,Kallakurichi,Road Accident Deaths,244
+2018,Kallakurichi,Economic Crime,1200
+2018,Ranipet,Murder,340
+2018,Ranipet,Assault,1200
+2018,Ranipet,Theft,1200
+2018,Ranipet,Robbery,340
+2018,Ranipet,Kidnapping,340
+2018,Ranipet,Cyber Crime,1100
+2018,Ranipet,Road Accident Deaths,229
+2018,Ranipet,Economic Crime,1200
+2018,Tiruppattur,Murder,340
+2018,Tiruppattur,Assault,1200
+2018,Tiruppattur,Theft,1200
+2018,Tiruppattur,Robbery,340
+2018,Tiruppattur,Kidnapping,340
+2018,Tiruppattur,Cyber Crime,1100
+2018,Tiruppattur,Road Accident Deaths,209
+2018,Tiruppattur,Economic Crime,1200
+2018,Tenkasi,Murder,340
+2018,Tenkasi,Assault,1200
+2018,Tenkasi,Theft,1200
+2018,Tenkasi,Robbery,340
+2018,Tenkasi,Kidnapping,340
+2018,Tenkasi,Cyber Crime,1100
+2018,Tenkasi,Road Accident Deaths,216
+2018,Tenkasi,Economic Crime,1200
+2018,TOTAL,Murder,340
+2018,TOTAL,Assault,1200
+2018,TOTAL,Theft,1200
+2018,TOTAL,Robbery,340
+2018,TOTAL,Kidnapping,340
+2018,TOTAL,Cyber Crime,1100
+2018,TOTAL,Road Accident Deaths,14157
+2018,TOTAL,Economic Crime,1200
+2019,Ariyalur,Murder,350
+2019,Ariyalur,Assault,1250
+2019,Ariyalur,Theft,1250
+2019,Ariyalur,Robbery,350
+2019,Ariyalur,Kidnapping,350
+2019,Ariyalur,Cyber Crime,1250
+2019,Ariyalur,Road Accident Deaths,157
+2019,Ariyalur,Economic Crime,1300
+2019,Chennai,Murder,350
+2019,Chennai,Assault,1250
+2019,Chennai,Theft,1250
+2019,Chennai,Robbery,350
+2019,Chennai,Kidnapping,350
+2019,Chennai,Cyber Crime,1250
+2019,Chennai,Road Accident Deaths,955
+2019,Chennai,Economic Crime,1300
+2019,Coimbatore,Murder,350
+2019,Coimbatore,Assault,1250
+2019,Coimbatore,Theft,1250
+2019,Coimbatore,Robbery,350
+2019,Coimbatore,Kidnapping,350
+2019,Coimbatore,Cyber Crime,1250
+2019,Coimbatore,Road Accident Deaths,581
+2019,Coimbatore,Economic Crime,1300
+2019,Coimbatore  City,Murder,350
+2019,Coimbatore  City,Assault,1250
+2019,Coimbatore  City,Theft,1250
+2019,Coimbatore  City,Robbery,350
+2019,Coimbatore  City,Kidnapping,350
+2019,Coimbatore  City,Cyber Crime,1250
+2019,Coimbatore  City,Road Accident Deaths,227
+2019,Coimbatore  City,Economic Crime,1300
+2019,Cuddalore,Murder,350
+2019,Cuddalore,Assault,1250
+2019,Cuddalore,Theft,1250
+2019,Cuddalore,Robbery,350
+2019,Cuddalore,Kidnapping,350
+2019,Cuddalore,Cyber Crime,1250
+2019,Cuddalore,Road Accident Deaths,514
+2019,Cuddalore,Economic Crime,1300
+2019,Dharmapuri,Murder,350
+2019,Dharmapuri,Assault,1250
+2019,Dharmapuri,Theft,1250
+2019,Dharmapuri,Robbery,350
+2019,Dharmapuri,Kidnapping,350
+2019,Dharmapuri,Cyber Crime,1250
+2019,Dharmapuri,Road Accident Deaths,301
+2019,Dharmapuri,Economic Crime,1300
+2019,Dindigul,Murder,350
+2019,Dindigul,Assault,1250
+2019,Dindigul,Theft,1250
+2019,Dindigul,Robbery,350
+2019,Dindigul,Kidnapping,350
+2019,Dindigul,Cyber Crime,1250
+2019,Dindigul,Road Accident Deaths,498
+2019,Dindigul,Economic Crime,1300
+2019,Erode,Murder,350
+2019,Erode,Assault,1250
+2019,Erode,Theft,1250
+2019,Erode,Robbery,350
+2019,Erode,Kidnapping,350
+2019,Erode,Cyber Crime,1250
+2019,Erode,Road Accident Deaths,484
+2019,Erode,Economic Crime,1300
+2019,Kanchipuram,Murder,350
+2019,Kanchipuram,Assault,1250
+2019,Kanchipuram,Theft,1250
+2019,Kanchipuram,Robbery,350
+2019,Kanchipuram,Kidnapping,350
+2019,Kanchipuram,Cyber Crime,1250
+2019,Kanchipuram,Road Accident Deaths,228
+2019,Kanchipuram,Economic Crime,1300
+2019,Kanyakumari,Murder,350
+2019,Kanyakumari,Assault,1250
+2019,Kanyakumari,Theft,1250
+2019,Kanyakumari,Robbery,350
+2019,Kanyakumari,Kidnapping,350
+2019,Kanyakumari,Cyber Crime,1250
+2019,Kanyakumari,Road Accident Deaths,300
+2019,Kanyakumari,Economic Crime,1300
+2019,Karur,Murder,350
+2019,Karur,Assault,1250
+2019,Karur,Theft,1250
+2019,Karur,Robbery,350
+2019,Karur,Kidnapping,350
+2019,Karur,Cyber Crime,1250
+2019,Karur,Road Accident Deaths,385
+2019,Karur,Economic Crime,1300
+2019,Krishnagiri,Murder,350
+2019,Krishnagiri,Assault,1250
+2019,Krishnagiri,Theft,1250
+2019,Krishnagiri,Robbery,350
+2019,Krishnagiri,Kidnapping,350
+2019,Krishnagiri,Cyber Crime,1250
+2019,Krishnagiri,Road Accident Deaths,532
+2019,Krishnagiri,Economic Crime,1300
+2019,Madurai,Murder,350
+2019,Madurai,Assault,1250
+2019,Madurai,Theft,1250
+2019,Madurai,Robbery,350
+2019,Madurai,Kidnapping,350
+2019,Madurai,Cyber Crime,1250
+2019,Madurai,Road Accident Deaths,518
+2019,Madurai,Economic Crime,1300
+2019,Madurai City,Murder,350
+2019,Madurai City,Assault,1250
+2019,Madurai City,Theft,1250
+2019,Madurai City,Robbery,350
+2019,Madurai City,Kidnapping,350
+2019,Madurai City,Cyber Crime,1250
+2019,Madurai City,Road Accident Deaths,148
+2019,Madurai City,Economic Crime,1300
+2019,Nagapattinam,Murder,350
+2019,Nagapattinam,Assault,1250
+2019,Nagapattinam,Theft,1250
+2019,Nagapattinam,Robbery,350
+2019,Nagapattinam,Kidnapping,350
+2019,Nagapattinam,Cyber Crime,1250
+2019,Nagapattinam,Road Accident Deaths,215
+2019,Nagapattinam,Economic Crime,1300
+2019,Namakkal,Murder,350
+2019,Namakkal,Assault,1250
+2019,Namakkal,Theft,1250
+2019,Namakkal,Robbery,350
+2019,Namakkal,Kidnapping,350
+2019,Namakkal,Cyber Crime,1250
+2019,Namakkal,Road Accident Deaths,404
+2019,Namakkal,Economic Crime,1300
+2019,Nilgiris,Murder,350
+2019,Nilgiris,Assault,1250
+2019,Nilgiris,Theft,1250
+2019,Nilgiris,Robbery,350
+2019,Nilgiris,Kidnapping,350
+2019,Nilgiris,Cyber Crime,1250
+2019,Nilgiris,Road Accident Deaths,31
+2019,Nilgiris,Economic Crime,1300
+2019,Perambalur,Murder,350
+2019,Perambalur,Assault,1250
+2019,Perambalur,Theft,1250
+2019,Perambalur,Robbery,350
+2019,Perambalur,Kidnapping,350
+2019,Perambalur,Cyber Crime,1250
+2019,Perambalur,Road Accident Deaths,160
+2019,Perambalur,Economic Crime,1300
+2019,Pudukottai,Murder,350
+2019,Pudukottai,Assault,1250
+2019,Pudukottai,Theft,1250
+2019,Pudukottai,Robbery,350
+2019,Pudukottai,Kidnapping,350
+2019,Pudukottai,Cyber Crime,1250
+2019,Pudukottai,Road Accident Deaths,352
+2019,Pudukottai,Economic Crime,1300
+2019,Ramnathapuram,Murder,350
+2019,Ramnathapuram,Assault,1250
+2019,Ramnathapuram,Theft,1250
+2019,Ramnathapuram,Robbery,350
+2019,Ramnathapuram,Kidnapping,350
+2019,Ramnathapuram,Cyber Crime,1250
+2019,Ramnathapuram,Road Accident Deaths,311
+2019,Ramnathapuram,Economic Crime,1300
+2019,Railway Chennai,Murder,350
+2019,Railway Chennai,Assault,1250
+2019,Railway Chennai,Theft,1250
+2019,Railway Chennai,Robbery,350
+2019,Railway Chennai,Kidnapping,350
+2019,Railway Chennai,Cyber Crime,1250
+2019,Railway Chennai,Road Accident Deaths,0
+2019,Railway Chennai,Economic Crime,1300
+2019,Railway Trichy,Murder,350
+2019,Railway Trichy,Assault,1250
+2019,Railway Trichy,Theft,1250
+2019,Railway Trichy,Robbery,350
+2019,Railway Trichy,Kidnapping,350
+2019,Railway Trichy,Cyber Crime,1250
+2019,Railway Trichy,Road Accident Deaths,0
+2019,Railway Trichy,Economic Crime,1300
+2019,Salem,Murder,350
+2019,Salem,Assault,1250
+2019,Salem,Theft,1250
+2019,Salem,Robbery,350
+2019,Salem,Kidnapping,350
+2019,Salem,Cyber Crime,1250
+2019,Salem,Road Accident Deaths,547
+2019,Salem,Economic Crime,1300
+2019,Salem City,Murder,350
+2019,Salem City,Assault,1250
+2019,Salem City,Theft,1250
+2019,Salem City,Robbery,350
+2019,Salem City,Kidnapping,350
+2019,Salem City,Cyber Crime,1250
+2019,Salem City,Road Accident Deaths,144
+2019,Salem City,Economic Crime,1300
+2019,Sivagangai,Murder,350
+2019,Sivagangai,Assault,1250
+2019,Sivagangai,Theft,1250
+2019,Sivagangai,Robbery,350
+2019,Sivagangai,Kidnapping,350
+2019,Sivagangai,Cyber Crime,1250
+2019,Sivagangai,Road Accident Deaths,313
+2019,Sivagangai,Economic Crime,1300
+2019,Thanjavur,Murder,350
+2019,Thanjavur,Assault,1250
+2019,Thanjavur,Theft,1250
+2019,Thanjavur,Robbery,350
+2019,Thanjavur,Kidnapping,350
+2019,Thanjavur,Cyber Crime,1250
+2019,Thanjavur,Road Accident Deaths,407
+2019,Thanjavur,Economic Crime,1300
+2019,Theni,Murder,350
+2019,Theni,Assault,1250
+2019,Theni,Theft,1250
+2019,Theni,Robbery,350
+2019,Theni,Kidnapping,350
+2019,Theni,Cyber Crime,1250
+2019,Theni,Road Accident Deaths,221
+2019,Theni,Economic Crime,1300
+2019,Thirunelveli,Murder,350
+2019,Thirunelveli,Assault,1250
+2019,Thirunelveli,Theft,1250
+2019,Thirunelveli,Robbery,350
+2019,Thirunelveli,Kidnapping,350
+2019,Thirunelveli,Cyber Crime,1250
+2019,Thirunelveli,Road Accident Deaths,259
+2019,Thirunelveli,Economic Crime,1300
+2019,Thirunelveli City,Murder,350
+2019,Thirunelveli City,Assault,1250
+2019,Thirunelveli City,Theft,1250
+2019,Thirunelveli City,Robbery,350
+2019,Thirunelveli City,Kidnapping,350
+2019,Thirunelveli City,Cyber Crime,1250
+2019,Thirunelveli City,Road Accident Deaths,74
+2019,Thirunelveli City,Economic Crime,1300
+2019,Thiruvallur,Murder,350
+2019,Thiruvallur,Assault,1250
+2019,Thiruvallur,Theft,1250
+2019,Thiruvallur,Robbery,350
+2019,Thiruvallur,Kidnapping,350
+2019,Thiruvallur,Cyber Crime,1250
+2019,Thiruvallur,Road Accident Deaths,311
+2019,Thiruvallur,Economic Crime,1300
+2019,Thiruvannamalai,Murder,350
+2019,Thiruvannamalai,Assault,1250
+2019,Thiruvannamalai,Theft,1250
+2019,Thiruvannamalai,Robbery,350
+2019,Thiruvannamalai,Kidnapping,350
+2019,Thiruvannamalai,Cyber Crime,1250
+2019,Thiruvannamalai,Road Accident Deaths,480
+2019,Thiruvannamalai,Economic Crime,1300
+2019,Thiruvarur,Murder,350
+2019,Thiruvarur,Assault,1250
+2019,Thiruvarur,Theft,1250
+2019,Thiruvarur,Robbery,350
+2019,Thiruvarur,Kidnapping,350
+2019,Thiruvarur,Cyber Crime,1250
+2019,Thiruvarur,Road Accident Deaths,158
+2019,Thiruvarur,Economic Crime,1300
+2019,Thoothukudi,Murder,350
+2019,Thoothukudi,Assault,1250
+2019,Thoothukudi,Theft,1250
+2019,Thoothukudi,Robbery,350
+2019,Thoothukudi,Kidnapping,350
+2019,Thoothukudi,Cyber Crime,1250
+2019,Thoothukudi,Road Accident Deaths,363
+2019,Thoothukudi,Economic Crime,1300
+2019,Tiruppur,Murder,350
+2019,Tiruppur,Assault,1250
+2019,Tiruppur,Theft,1250
+2019,Tiruppur,Robbery,350
+2019,Tiruppur,Kidnapping,350
+2019,Tiruppur,Cyber Crime,1250
+2019,Tiruppur,Road Accident Deaths,611
+2019,Tiruppur,Economic Crime,1300
+2019,Tiruppur City,Murder,350
+2019,Tiruppur City,Assault,1250
+2019,Tiruppur City,Theft,1250
+2019,Tiruppur City,Robbery,350
+2019,Tiruppur City,Kidnapping,350
+2019,Tiruppur City,Cyber Crime,1250
+2019,Tiruppur City,Road Accident Deaths,141
+2019,Tiruppur City,Economic Crime,1300
+2019,Trichy,Murder,350
+2019,Trichy,Assault,1250
+2019,Trichy,Theft,1250
+2019,Trichy,Robbery,350
+2019,Trichy,Kidnapping,350
+2019,Trichy,Cyber Crime,1250
+2019,Trichy,Road Accident Deaths,488
+2019,Trichy,Economic Crime,1300
+2019,Trichy City,Murder,350
+2019,Trichy City,Assault,1250
+2019,Trichy City,Theft,1250
+2019,Trichy City,Robbery,350
+2019,Trichy City,Kidnapping,350
+2019,Trichy City,Cyber Crime,1250
+2019,Trichy City,Road Accident Deaths,123
+2019,Trichy City,Economic Crime,1300
+2019,Vellore,Murder,350
+2019,Vellore,Assault,1250
+2019,Vellore,Theft,1250
+2019,Vellore,Robbery,350
+2019,Vellore,Kidnapping,350
+2019,Vellore,Cyber Crime,1250
+2019,Vellore,Road Accident Deaths,233
+2019,Vellore,Economic Crime,1300
+2019,Villupuram,Murder,350
+2019,Villupuram,Assault,1250
+2019,Villupuram,Theft,1250
+2019,Villupuram,Robbery,350
+2019,Villupuram,Kidnapping,350
+2019,Villupuram,Cyber Crime,1250
+2019,Villupuram,Road Accident Deaths,492
+2019,Villupuram,Economic Crime,1300
+2019,Virudhunagar,Murder,350
+2019,Virudhunagar,Assault,1250
+2019,Virudhunagar,Theft,1250
+2019,Virudhunagar,Robbery,350
+2019,Virudhunagar,Kidnapping,350
+2019,Virudhunagar,Cyber Crime,1250
+2019,Virudhunagar,Road Accident Deaths,404
+2019,Virudhunagar,Economic Crime,1300
+2019,Cyber Cell,Murder,350
+2019,Cyber Cell,Assault,1250
+2019,Cyber Cell,Theft,1250
+2019,Cyber Cell,Robbery,350
+2019,Cyber Cell,Kidnapping,350
+2019,Cyber Cell,Cyber Crime,1250
+2019,Cyber Cell,Road Accident Deaths,0
+2019,Cyber Cell,Economic Crime,1300
+2019,Other Units,Murder,350
+2019,Other Units,Assault,1250
+2019,Other Units,Theft,1250
+2019,Other Units,Robbery,350
+2019,Other Units,Kidnapping,350
+2019,Other Units,Cyber Crime,1250
+2019,Other Units,Road Accident Deaths,0
+2019,Other Units,Economic Crime,1300
+2019,Chengalpattu,Murder,350
+2019,Chengalpattu,Assault,1250
+2019,Chengalpattu,Theft,1250
+2019,Chengalpattu,Robbery,350
+2019,Chengalpattu,Kidnapping,350
+2019,Chengalpattu,Cyber Crime,1250
+2019,Chengalpattu,Road Accident Deaths,442
+2019,Chengalpattu,Economic Crime,1300
+2019,Kallakurichi,Murder,350
+2019,Kallakurichi,Assault,1250
+2019,Kallakurichi,Theft,1250
+2019,Kallakurichi,Robbery,350
+2019,Kallakurichi,Kidnapping,350
+2019,Kallakurichi,Cyber Crime,1250
+2019,Kallakurichi,Road Accident Deaths,249
+2019,Kallakurichi,Economic Crime,1300
+2019,Ranipet,Murder,350
+2019,Ranipet,Assault,1250
+2019,Ranipet,Theft,1250
+2019,Ranipet,Robbery,350
+2019,Ranipet,Kidnapping,350
+2019,Ranipet,Cyber Crime,1250
+2019,Ranipet,Road Accident Deaths,234
+2019,Ranipet,Economic Crime,1300
+2019,Tiruppattur,Murder,350
+2019,Tiruppattur,Assault,1250
+2019,Tiruppattur,Theft,1250
+2019,Tiruppattur,Robbery,350
+2019,Tiruppattur,Kidnapping,350
+2019,Tiruppattur,Cyber Crime,1250
+2019,Tiruppattur,Road Accident Deaths,213
+2019,Tiruppattur,Economic Crime,1300
+2019,Tenkasi,Murder,350
+2019,Tenkasi,Assault,1250
+2019,Tenkasi,Theft,1250
+2019,Tenkasi,Robbery,350
+2019,Tenkasi,Kidnapping,350
+2019,Tenkasi,Cyber Crime,1250
+2019,Tenkasi,Road Accident Deaths,220
+2019,Tenkasi,Economic Crime,1300
+2019,TOTAL,Murder,350
+2019,TOTAL,Assault,1250
+2019,TOTAL,Theft,1250
+2019,TOTAL,Robbery,350
+2019,TOTAL,Kidnapping,350
+2019,TOTAL,Cyber Crime,1250
+2019,TOTAL,Road Accident Deaths,14452
+2019,TOTAL,Economic Crime,1300
+2020,Ariyalur,Murder,360
+2020,Ariyalur,Assault,1300
+2020,Ariyalur,Theft,1300
+2020,Ariyalur,Robbery,360
+2020,Ariyalur,Kidnapping,360
+2020,Ariyalur,Cyber Crime,1400
+2020,Ariyalur,Road Accident Deaths,161
+2020,Ariyalur,Economic Crime,1400
+2020,Chennai,Murder,360
+2020,Chennai,Assault,1300
+2020,Chennai,Theft,1300
+2020,Chennai,Robbery,360
+2020,Chennai,Kidnapping,360
+2020,Chennai,Cyber Crime,1400
+2020,Chennai,Road Accident Deaths,975
+2020,Chennai,Economic Crime,1400
+2020,Coimbatore,Murder,360
+2020,Coimbatore,Assault,1300
+2020,Coimbatore,Theft,1300
+2020,Coimbatore,Robbery,360
+2020,Coimbatore,Kidnapping,360
+2020,Coimbatore,Cyber Crime,1400
+2020,Coimbatore,Road Accident Deaths,593
+2020,Coimbatore,Economic Crime,1400
+2020,Coimbatore  City,Murder,360
+2020,Coimbatore  City,Assault,1300
+2020,Coimbatore  City,Theft,1300
+2020,Coimbatore  City,Robbery,360
+2020,Coimbatore  City,Kidnapping,360
+2020,Coimbatore  City,Cyber Crime,1400
+2020,Coimbatore  City,Road Accident Deaths,232
+2020,Coimbatore  City,Economic Crime,1400
+2020,Cuddalore,Murder,360
+2020,Cuddalore,Assault,1300
+2020,Cuddalore,Theft,1300
+2020,Cuddalore,Robbery,360
+2020,Cuddalore,Kidnapping,360
+2020,Cuddalore,Cyber Crime,1400
+2020,Cuddalore,Road Accident Deaths,525
+2020,Cuddalore,Economic Crime,1400
+2020,Dharmapuri,Murder,360
+2020,Dharmapuri,Assault,1300
+2020,Dharmapuri,Theft,1300
+2020,Dharmapuri,Robbery,360
+2020,Dharmapuri,Kidnapping,360
+2020,Dharmapuri,Cyber Crime,1400
+2020,Dharmapuri,Road Accident Deaths,308
+2020,Dharmapuri,Economic Crime,1400
+2020,Dindigul,Murder,360
+2020,Dindigul,Assault,1300
+2020,Dindigul,Theft,1300
+2020,Dindigul,Robbery,360
+2020,Dindigul,Kidnapping,360
+2020,Dindigul,Cyber Crime,1400
+2020,Dindigul,Road Accident Deaths,509
+2020,Dindigul,Economic Crime,1400
+2020,Erode,Murder,360
+2020,Erode,Assault,1300
+2020,Erode,Theft,1300
+2020,Erode,Robbery,360
+2020,Erode,Kidnapping,360
+2020,Erode,Cyber Crime,1400
+2020,Erode,Road Accident Deaths,494
+2020,Erode,Economic Crime,1400
+2020,Kanchipuram,Murder,360
+2020,Kanchipuram,Assault,1300
+2020,Kanchipuram,Theft,1300
+2020,Kanchipuram,Robbery,360
+2020,Kanchipuram,Kidnapping,360
+2020,Kanchipuram,Cyber Crime,1400
+2020,Kanchipuram,Road Accident Deaths,233
+2020,Kanchipuram,Economic Crime,1400
+2020,Kanyakumari,Murder,360
+2020,Kanyakumari,Assault,1300
+2020,Kanyakumari,Theft,1300
+2020,Kanyakumari,Robbery,360
+2020,Kanyakumari,Kidnapping,360
+2020,Kanyakumari,Cyber Crime,1400
+2020,Kanyakumari,Road Accident Deaths,307
+2020,Kanyakumari,Economic Crime,1400
+2020,Karur,Murder,360
+2020,Karur,Assault,1300
+2020,Karur,Theft,1300
+2020,Karur,Robbery,360
+2020,Karur,Kidnapping,360
+2020,Karur,Cyber Crime,1400
+2020,Karur,Road Accident Deaths,393
+2020,Karur,Economic Crime,1400
+2020,Krishnagiri,Murder,360
+2020,Krishnagiri,Assault,1300
+2020,Krishnagiri,Theft,1300
+2020,Krishnagiri,Robbery,360
+2020,Krishnagiri,Kidnapping,360
+2020,Krishnagiri,Cyber Crime,1400
+2020,Krishnagiri,Road Accident Deaths,543
+2020,Krishnagiri,Economic Crime,1400
+2020,Madurai,Murder,360
+2020,Madurai,Assault,1300
+2020,Madurai,Theft,1300
+2020,Madurai,Robbery,360
+2020,Madurai,Kidnapping,360
+2020,Madurai,Cyber Crime,1400
+2020,Madurai,Road Accident Deaths,529
+2020,Madurai,Economic Crime,1400
+2020,Madurai City,Murder,360
+2020,Madurai City,Assault,1300
+2020,Madurai City,Theft,1300
+2020,Madurai City,Robbery,360
+2020,Madurai City,Kidnapping,360
+2020,Madurai City,Cyber Crime,1400
+2020,Madurai City,Road Accident Deaths,152
+2020,Madurai City,Economic Crime,1400
+2020,Nagapattinam,Murder,360
+2020,Nagapattinam,Assault,1300
+2020,Nagapattinam,Theft,1300
+2020,Nagapattinam,Robbery,360
+2020,Nagapattinam,Kidnapping,360
+2020,Nagapattinam,Cyber Crime,1400
+2020,Nagapattinam,Road Accident Deaths,220
+2020,Nagapattinam,Economic Crime,1400
+2020,Namakkal,Murder,360
+2020,Namakkal,Assault,1300
+2020,Namakkal,Theft,1300
+2020,Namakkal,Robbery,360
+2020,Namakkal,Kidnapping,360
+2020,Namakkal,Cyber Crime,1400
+2020,Namakkal,Road Accident Deaths,413
+2020,Namakkal,Economic Crime,1400
+2020,Nilgiris,Murder,360
+2020,Nilgiris,Assault,1300
+2020,Nilgiris,Theft,1300
+2020,Nilgiris,Robbery,360
+2020,Nilgiris,Kidnapping,360
+2020,Nilgiris,Cyber Crime,1400
+2020,Nilgiris,Road Accident Deaths,32
+2020,Nilgiris,Economic Crime,1400
+2020,Perambalur,Murder,360
+2020,Perambalur,Assault,1300
+2020,Perambalur,Theft,1300
+2020,Perambalur,Robbery,360
+2020,Perambalur,Kidnapping,360
+2020,Perambalur,Cyber Crime,1400
+2020,Perambalur,Road Accident Deaths,164
+2020,Perambalur,Economic Crime,1400
+2020,Pudukottai,Murder,360
+2020,Pudukottai,Assault,1300
+2020,Pudukottai,Theft,1300
+2020,Pudukottai,Robbery,360
+2020,Pudukottai,Kidnapping,360
+2020,Pudukottai,Cyber Crime,1400
+2020,Pudukottai,Road Accident Deaths,360
+2020,Pudukottai,Economic Crime,1400
+2020,Ramnathapuram,Murder,360
+2020,Ramnathapuram,Assault,1300
+2020,Ramnathapuram,Theft,1300
+2020,Ramnathapuram,Robbery,360
+2020,Ramnathapuram,Kidnapping,360
+2020,Ramnathapuram,Cyber Crime,1400
+2020,Ramnathapuram,Road Accident Deaths,318
+2020,Ramnathapuram,Economic Crime,1400
+2020,Railway Chennai,Murder,360
+2020,Railway Chennai,Assault,1300
+2020,Railway Chennai,Theft,1300
+2020,Railway Chennai,Robbery,360
+2020,Railway Chennai,Kidnapping,360
+2020,Railway Chennai,Cyber Crime,1400
+2020,Railway Chennai,Road Accident Deaths,1
+2020,Railway Chennai,Economic Crime,1400
+2020,Railway Trichy,Murder,360
+2020,Railway Trichy,Assault,1300
+2020,Railway Trichy,Theft,1300
+2020,Railway Trichy,Robbery,360
+2020,Railway Trichy,Kidnapping,360
+2020,Railway Trichy,Cyber Crime,1400
+2020,Railway Trichy,Road Accident Deaths,0
+2020,Railway Trichy,Economic Crime,1400
+2020,Salem,Murder,360
+2020,Salem,Assault,1300
+2020,Salem,Theft,1300
+2020,Salem,Robbery,360
+2020,Salem,Kidnapping,360
+2020,Salem,Cyber Crime,1400
+2020,Salem,Road Accident Deaths,559
+2020,Salem,Economic Crime,1400
+2020,Salem City,Murder,360
+2020,Salem City,Assault,1300
+2020,Salem City,Theft,1300
+2020,Salem City,Robbery,360
+2020,Salem City,Kidnapping,360
+2020,Salem City,Cyber Crime,1400
+2020,Salem City,Road Accident Deaths,147
+2020,Salem City,Economic Crime,1400
+2020,Sivagangai,Murder,360
+2020,Sivagangai,Assault,1300
+2020,Sivagangai,Theft,1300
+2020,Sivagangai,Robbery,360
+2020,Sivagangai,Kidnapping,360
+2020,Sivagangai,Cyber Crime,1400
+2020,Sivagangai,Road Accident Deaths,320
+2020,Sivagangai,Economic Crime,1400
+2020,Thanjavur,Murder,360
+2020,Thanjavur,Assault,1300
+2020,Thanjavur,Theft,1300
+2020,Thanjavur,Robbery,360
+2020,Thanjavur,Kidnapping,360
+2020,Thanjavur,Cyber Crime,1400
+2020,Thanjavur,Road Accident Deaths,416
+2020,Thanjavur,Economic Crime,1400
+2020,Theni,Murder,360
+2020,Theni,Assault,1300
+2020,Theni,Theft,1300
+2020,Theni,Robbery,360
+2020,Theni,Kidnapping,360
+2020,Theni,Cyber Crime,1400
+2020,Theni,Road Accident Deaths,226
+2020,Theni,Economic Crime,1400
+2020,Thirunelveli,Murder,360
+2020,Thirunelveli,Assault,1300
+2020,Thirunelveli,Theft,1300
+2020,Thirunelveli,Robbery,360
+2020,Thirunelveli,Kidnapping,360
+2020,Thirunelveli,Cyber Crime,1400
+2020,Thirunelveli,Road Accident Deaths,265
+2020,Thirunelveli,Economic Crime,1400
+2020,Thirunelveli City,Murder,360
+2020,Thirunelveli City,Assault,1300
+2020,Thirunelveli City,Theft,1300
+2020,Thirunelveli City,Robbery,360
+2020,Thirunelveli City,Kidnapping,360
+2020,Thirunelveli City,Cyber Crime,1400
+2020,Thirunelveli City,Road Accident Deaths,76
+2020,Thirunelveli City,Economic Crime,1400
+2020,Thiruvallur,Murder,360
+2020,Thiruvallur,Assault,1300
+2020,Thiruvallur,Theft,1300
+2020,Thiruvallur,Robbery,360
+2020,Thiruvallur,Kidnapping,360
+2020,Thiruvallur,Cyber Crime,1400
+2020,Thiruvallur,Road Accident Deaths,318
+2020,Thiruvallur,Economic Crime,1400
+2020,Thiruvannamalai,Murder,360
+2020,Thiruvannamalai,Assault,1300
+2020,Thiruvannamalai,Theft,1300
+2020,Thiruvannamalai,Robbery,360
+2020,Thiruvannamalai,Kidnapping,360
+2020,Thiruvannamalai,Cyber Crime,1400
+2020,Thiruvannamalai,Road Accident Deaths,490
+2020,Thiruvannamalai,Economic Crime,1400
+2020,Thiruvarur,Murder,360
+2020,Thiruvarur,Assault,1300
+2020,Thiruvarur,Theft,1300
+2020,Thiruvarur,Robbery,360
+2020,Thiruvarur,Kidnapping,360
+2020,Thiruvarur,Cyber Crime,1400
+2020,Thiruvarur,Road Accident Deaths,162
+2020,Thiruvarur,Economic Crime,1400
+2020,Thoothukudi,Murder,360
+2020,Thoothukudi,Assault,1300
+2020,Thoothukudi,Theft,1300
+2020,Thoothukudi,Robbery,360
+2020,Thoothukudi,Kidnapping,360
+2020,Thoothukudi,Cyber Crime,1400
+2020,Thoothukudi,Road Accident Deaths,371
+2020,Thoothukudi,Economic Crime,1400
+2020,Tiruppur,Murder,360
+2020,Tiruppur,Assault,1300
+2020,Tiruppur,Theft,1300
+2020,Tiruppur,Robbery,360
+2020,Tiruppur,Kidnapping,360
+2020,Tiruppur,Cyber Crime,1400
+2020,Tiruppur,Road Accident Deaths,624
+2020,Tiruppur,Economic Crime,1400
+2020,Tiruppur City,Murder,360
+2020,Tiruppur City,Assault,1300
+2020,Tiruppur City,Theft,1300
+2020,Tiruppur City,Robbery,360
+2020,Tiruppur City,Kidnapping,360
+2020,Tiruppur City,Cyber Crime,1400
+2020,Tiruppur City,Road Accident Deaths,144
+2020,Tiruppur City,Economic Crime,1400
+2020,Trichy,Murder,360
+2020,Trichy,Assault,1300
+2020,Trichy,Theft,1300
+2020,Trichy,Robbery,360
+2020,Trichy,Kidnapping,360
+2020,Trichy,Cyber Crime,1400
+2020,Trichy,Road Accident Deaths,498
+2020,Trichy,Economic Crime,1400
+2020,Trichy City,Murder,360
+2020,Trichy City,Assault,1300
+2020,Trichy City,Theft,1300
+2020,Trichy City,Robbery,360
+2020,Trichy City,Kidnapping,360
+2020,Trichy City,Cyber Crime,1400
+2020,Trichy City,Road Accident Deaths,126
+2020,Trichy City,Economic Crime,1400
+2020,Vellore,Murder,360
+2020,Vellore,Assault,1300
+2020,Vellore,Theft,1300
+2020,Vellore,Robbery,360
+2020,Vellore,Kidnapping,360
+2020,Vellore,Cyber Crime,1400
+2020,Vellore,Road Accident Deaths,238
+2020,Vellore,Economic Crime,1400
+2020,Villupuram,Murder,360
+2020,Villupuram,Assault,1300
+2020,Villupuram,Theft,1300
+2020,Villupuram,Robbery,360
+2020,Villupuram,Kidnapping,360
+2020,Villupuram,Cyber Crime,1400
+2020,Villupuram,Road Accident Deaths,503
+2020,Villupuram,Economic Crime,1400
+2020,Virudhunagar,Murder,360
+2020,Virudhunagar,Assault,1300
+2020,Virudhunagar,Theft,1300
+2020,Virudhunagar,Robbery,360
+2020,Virudhunagar,Kidnapping,360
+2020,Virudhunagar,Cyber Crime,1400
+2020,Virudhunagar,Road Accident Deaths,413
+2020,Virudhunagar,Economic Crime,1400
+2020,Cyber Cell,Murder,360
+2020,Cyber Cell,Assault,1300
+2020,Cyber Cell,Theft,1300
+2020,Cyber Cell,Robbery,360
+2020,Cyber Cell,Kidnapping,360
+2020,Cyber Cell,Cyber Crime,1400
+2020,Cyber Cell,Road Accident Deaths,0
+2020,Cyber Cell,Economic Crime,1400
+2020,Other Units,Murder,360
+2020,Other Units,Assault,1300
+2020,Other Units,Theft,1300
+2020,Other Units,Robbery,360
+2020,Other Units,Kidnapping,360
+2020,Other Units,Cyber Crime,1400
+2020,Other Units,Road Accident Deaths,0
+2020,Other Units,Economic Crime,1400
+2020,Chengalpattu,Murder,360
+2020,Chengalpattu,Assault,1300
+2020,Chengalpattu,Theft,1300
+2020,Chengalpattu,Robbery,360
+2020,Chengalpattu,Kidnapping,360
+2020,Chengalpattu,Cyber Crime,1400
+2020,Chengalpattu,Road Accident Deaths,452
+2020,Chengalpattu,Economic Crime,1400
+2020,Kallakurichi,Murder,360
+2020,Kallakurichi,Assault,1300
+2020,Kallakurichi,Theft,1300
+2020,Kallakurichi,Robbery,360
+2020,Kallakurichi,Kidnapping,360
+2020,Kallakurichi,Cyber Crime,1400
+2020,Kallakurichi,Road Accident Deaths,255
+2020,Kallakurichi,Economic Crime,1400
+2020,Ranipet,Murder,360
+2020,Ranipet,Assault,1300
+2020,Ranipet,Theft,1300
+2020,Ranipet,Robbery,360
+2020,Ranipet,Kidnapping,360
+2020,Ranipet,Cyber Crime,1400
+2020,Ranipet,Road Accident Deaths,239
+2020,Ranipet,Economic Crime,1400
+2020,Tiruppattur,Murder,360
+2020,Tiruppattur,Assault,1300
+2020,Tiruppattur,Theft,1300
+2020,Tiruppattur,Robbery,360
+2020,Tiruppattur,Kidnapping,360
+2020,Tiruppattur,Cyber Crime,1400
+2020,Tiruppattur,Road Accident Deaths,218
+2020,Tiruppattur,Economic Crime,1400
+2020,Tenkasi,Murder,360
+2020,Tenkasi,Assault,1300
+2020,Tenkasi,Theft,1300
+2020,Tenkasi,Robbery,360
+2020,Tenkasi,Kidnapping,360
+2020,Tenkasi,Cyber Crime,1400
+2020,Tenkasi,Road Accident Deaths,225
+2020,Tenkasi,Economic Crime,1400
+2020,TOTAL,Murder,360
+2020,TOTAL,Assault,1300
+2020,TOTAL,Theft,1300
+2020,TOTAL,Robbery,360
+2020,TOTAL,Kidnapping,360
+2020,TOTAL,Cyber Crime,1400
+2020,TOTAL,Road Accident Deaths,14747
+2020,TOTAL,Economic Crime,1400
+2021,Ariyalur,Murder,370
+2021,Ariyalur,Assault,1350
+2021,Ariyalur,Theft,1350
+2021,Ariyalur,Robbery,370
+2021,Ariyalur,Kidnapping,370
+2021,Ariyalur,Cyber Crime,1550
+2021,Ariyalur,Road Accident Deaths,164
+2021,Ariyalur,Economic Crime,1500
+2021,Chennai,Murder,370
+2021,Chennai,Assault,1350
+2021,Chennai,Theft,1350
+2021,Chennai,Robbery,370
+2021,Chennai,Kidnapping,370
+2021,Chennai,Cyber Crime,1550
+2021,Chennai,Road Accident Deaths,994
+2021,Chennai,Economic Crime,1500
+2021,Coimbatore,Murder,370
+2021,Coimbatore,Assault,1350
+2021,Coimbatore,Theft,1350
+2021,Coimbatore,Robbery,370
+2021,Coimbatore,Kidnapping,370
+2021,Coimbatore,Cyber Crime,1550
+2021,Coimbatore,Road Accident Deaths,604
+2021,Coimbatore,Economic Crime,1500
+2021,Coimbatore  City,Murder,370
+2021,Coimbatore  City,Assault,1350
+2021,Coimbatore  City,Theft,1350
+2021,Coimbatore  City,Robbery,370
+2021,Coimbatore  City,Kidnapping,370
+2021,Coimbatore  City,Cyber Crime,1550
+2021,Coimbatore  City,Road Accident Deaths,236
+2021,Coimbatore  City,Economic Crime,1500
+2021,Cuddalore,Murder,370
+2021,Cuddalore,Assault,1350
+2021,Cuddalore,Theft,1350
+2021,Cuddalore,Robbery,370
+2021,Cuddalore,Kidnapping,370
+2021,Cuddalore,Cyber Crime,1550
+2021,Cuddalore,Road Accident Deaths,535
+2021,Cuddalore,Economic Crime,1500
+2021,Dharmapuri,Murder,370
+2021,Dharmapuri,Assault,1350
+2021,Dharmapuri,Theft,1350
+2021,Dharmapuri,Robbery,370
+2021,Dharmapuri,Kidnapping,370
+2021,Dharmapuri,Cyber Crime,1550
+2021,Dharmapuri,Road Accident Deaths,314
+2021,Dharmapuri,Economic Crime,1500
+2021,Dindigul,Murder,370
+2021,Dindigul,Assault,1350
+2021,Dindigul,Theft,1350
+2021,Dindigul,Robbery,370
+2021,Dindigul,Kidnapping,370
+2021,Dindigul,Cyber Crime,1550
+2021,Dindigul,Road Accident Deaths,519
+2021,Dindigul,Economic Crime,1500
+2021,Erode,Murder,370
+2021,Erode,Assault,1350
+2021,Erode,Theft,1350
+2021,Erode,Robbery,370
+2021,Erode,Kidnapping,370
+2021,Erode,Cyber Crime,1550
+2021,Erode,Road Accident Deaths,503
+2021,Erode,Economic Crime,1500
+2021,Kanchipuram,Murder,370
+2021,Kanchipuram,Assault,1350
+2021,Kanchipuram,Theft,1350
+2021,Kanchipuram,Robbery,370
+2021,Kanchipuram,Kidnapping,370
+2021,Kanchipuram,Cyber Crime,1550
+2021,Kanchipuram,Road Accident Deaths,237
+2021,Kanchipuram,Economic Crime,1500
+2021,Kanyakumari,Murder,370
+2021,Kanyakumari,Assault,1350
+2021,Kanyakumari,Theft,1350
+2021,Kanyakumari,Robbery,370
+2021,Kanyakumari,Kidnapping,370
+2021,Kanyakumari,Cyber Crime,1550
+2021,Kanyakumari,Road Accident Deaths,313
+2021,Kanyakumari,Economic Crime,1500
+2021,Karur,Murder,370
+2021,Karur,Assault,1350
+2021,Karur,Theft,1350
+2021,Karur,Robbery,370
+2021,Karur,Kidnapping,370
+2021,Karur,Cyber Crime,1550
+2021,Karur,Road Accident Deaths,400
+2021,Karur,Economic Crime,1500
+2021,Krishnagiri,Murder,370
+2021,Krishnagiri,Assault,1350
+2021,Krishnagiri,Theft,1350
+2021,Krishnagiri,Robbery,370
+2021,Krishnagiri,Kidnapping,370
+2021,Krishnagiri,Cyber Crime,1550
+2021,Krishnagiri,Road Accident Deaths,553
+2021,Krishnagiri,Economic Crime,1500
+2021,Madurai,Murder,370
+2021,Madurai,Assault,1350
+2021,Madurai,Theft,1350
+2021,Madurai,Robbery,370
+2021,Madurai,Kidnapping,370
+2021,Madurai,Cyber Crime,1550
+2021,Madurai,Road Accident Deaths,539
+2021,Madurai,Economic Crime,1500
+2021,Madurai City,Murder,370
+2021,Madurai City,Assault,1350
+2021,Madurai City,Theft,1350
+2021,Madurai City,Robbery,370
+2021,Madurai City,Kidnapping,370
+2021,Madurai City,Cyber Crime,1550
+2021,Madurai City,Road Accident Deaths,155
+2021,Madurai City,Economic Crime,1500
+2021,Nagapattinam,Murder,370
+2021,Nagapattinam,Assault,1350
+2021,Nagapattinam,Theft,1350
+2021,Nagapattinam,Robbery,370
+2021,Nagapattinam,Kidnapping,370
+2021,Nagapattinam,Cyber Crime,1550
+2021,Nagapattinam,Road Accident Deaths,224
+2021,Nagapattinam,Economic Crime,1500
+2021,Namakkal,Murder,370
+2021,Namakkal,Assault,1350
+2021,Namakkal,Theft,1350
+2021,Namakkal,Robbery,370
+2021,Namakkal,Kidnapping,370
+2021,Namakkal,Cyber Crime,1550
+2021,Namakkal,Road Accident Deaths,421
+2021,Namakkal,Economic Crime,1500
+2021,Nilgiris,Murder,370
+2021,Nilgiris,Assault,1350
+2021,Nilgiris,Theft,1350
+2021,Nilgiris,Robbery,370
+2021,Nilgiris,Kidnapping,370
+2021,Nilgiris,Cyber Crime,1550
+2021,Nilgiris,Road Accident Deaths,32
+2021,Nilgiris,Economic Crime,1500
+2021,Perambalur,Murder,370
+2021,Perambalur,Assault,1350
+2021,Perambalur,Theft,1350
+2021,Perambalur,Robbery,370
+2021,Perambalur,Kidnapping,370
+2021,Perambalur,Cyber Crime,1550
+2021,Perambalur,Road Accident Deaths,167
+2021,Perambalur,Economic Crime,1500
+2021,Pudukottai,Murder,370
+2021,Pudukottai,Assault,1350
+2021,Pudukottai,Theft,1350
+2021,Pudukottai,Robbery,370
+2021,Pudukottai,Kidnapping,370
+2021,Pudukottai,Cyber Crime,1550
+2021,Pudukottai,Road Accident Deaths,367
+2021,Pudukottai,Economic Crime,1500
+2021,Ramnathapuram,Murder,370
+2021,Ramnathapuram,Assault,1350
+2021,Ramnathapuram,Theft,1350
+2021,Ramnathapuram,Robbery,370
+2021,Ramnathapuram,Kidnapping,370
+2021,Ramnathapuram,Cyber Crime,1550
+2021,Ramnathapuram,Road Accident Deaths,324
+2021,Ramnathapuram,Economic Crime,1500
+2021,Railway Chennai,Murder,370
+2021,Railway Chennai,Assault,1350
+2021,Railway Chennai,Theft,1350
+2021,Railway Chennai,Robbery,370
+2021,Railway Chennai,Kidnapping,370
+2021,Railway Chennai,Cyber Crime,1550
+2021,Railway Chennai,Road Accident Deaths,1
+2021,Railway Chennai,Economic Crime,1500
+2021,Railway Trichy,Murder,370
+2021,Railway Trichy,Assault,1350
+2021,Railway Trichy,Theft,1350
+2021,Railway Trichy,Robbery,370
+2021,Railway Trichy,Kidnapping,370
+2021,Railway Trichy,Cyber Crime,1550
+2021,Railway Trichy,Road Accident Deaths,0
+2021,Railway Trichy,Economic Crime,1500
+2021,Salem,Murder,370
+2021,Salem,Assault,1350
+2021,Salem,Theft,1350
+2021,Salem,Robbery,370
+2021,Salem,Kidnapping,370
+2021,Salem,Cyber Crime,1550
+2021,Salem,Road Accident Deaths,570
+2021,Salem,Economic Crime,1500
+2021,Salem City,Murder,370
+2021,Salem City,Assault,1350
+2021,Salem City,Theft,1350
+2021,Salem City,Robbery,370
+2021,Salem City,Kidnapping,370
+2021,Salem City,Cyber Crime,1550
+2021,Salem City,Road Accident Deaths,149
+2021,Salem City,Economic Crime,1500
+2021,Sivagangai,Murder,370
+2021,Sivagangai,Assault,1350
+2021,Sivagangai,Theft,1350
+2021,Sivagangai,Robbery,370
+2021,Sivagangai,Kidnapping,370
+2021,Sivagangai,Cyber Crime,1550
+2021,Sivagangai,Road Accident Deaths,326
+2021,Sivagangai,Economic Crime,1500
+2021,Thanjavur,Murder,370
+2021,Thanjavur,Assault,1350
+2021,Thanjavur,Theft,1350
+2021,Thanjavur,Robbery,370
+2021,Thanjavur,Kidnapping,370
+2021,Thanjavur,Cyber Crime,1550
+2021,Thanjavur,Road Accident Deaths,424
+2021,Thanjavur,Economic Crime,1500
+2021,Theni,Murder,370
+2021,Theni,Assault,1350
+2021,Theni,Theft,1350
+2021,Theni,Robbery,370
+2021,Theni,Kidnapping,370
+2021,Theni,Cyber Crime,1550
+2021,Theni,Road Accident Deaths,230
+2021,Theni,Economic Crime,1500
+2021,Thirunelveli,Murder,370
+2021,Thirunelveli,Assault,1350
+2021,Thirunelveli,Theft,1350
+2021,Thirunelveli,Robbery,370
+2021,Thirunelveli,Kidnapping,370
+2021,Thirunelveli,Cyber Crime,1550
+2021,Thirunelveli,Road Accident Deaths,270
+2021,Thirunelveli,Economic Crime,1500
+2021,Thirunelveli City,Murder,370
+2021,Thirunelveli City,Assault,1350
+2021,Thirunelveli City,Theft,1350
+2021,Thirunelveli City,Robbery,370
+2021,Thirunelveli City,Kidnapping,370
+2021,Thirunelveli City,Cyber Crime,1550
+2021,Thirunelveli City,Road Accident Deaths,77
+2021,Thirunelveli City,Economic Crime,1500
+2021,Thiruvallur,Murder,370
+2021,Thiruvallur,Assault,1350
+2021,Thiruvallur,Theft,1350
+2021,Thiruvallur,Robbery,370
+2021,Thiruvallur,Kidnapping,370
+2021,Thiruvallur,Cyber Crime,1550
+2021,Thiruvallur,Road Accident Deaths,324
+2021,Thiruvallur,Economic Crime,1500
+2021,Thiruvannamalai,Murder,370
+2021,Thiruvannamalai,Assault,1350
+2021,Thiruvannamalai,Theft,1350
+2021,Thiruvannamalai,Robbery,370
+2021,Thiruvannamalai,Kidnapping,370
+2021,Thiruvannamalai,Cyber Crime,1550
+2021,Thiruvannamalai,Road Accident Deaths,499
+2021,Thiruvannamalai,Economic Crime,1500
+2021,Thiruvarur,Murder,370
+2021,Thiruvarur,Assault,1350
+2021,Thiruvarur,Theft,1350
+2021,Thiruvarur,Robbery,370
+2021,Thiruvarur,Kidnapping,370
+2021,Thiruvarur,Cyber Crime,1550
+2021,Thiruvarur,Road Accident Deaths,165
+2021,Thiruvarur,Economic Crime,1500
+2021,Thoothukudi,Murder,370
+2021,Thoothukudi,Assault,1350
+2021,Thoothukudi,Theft,1350
+2021,Thoothukudi,Robbery,370
+2021,Thoothukudi,Kidnapping,370
+2021,Thoothukudi,Cyber Crime,1550
+2021,Thoothukudi,Road Accident Deaths,378
+2021,Thoothukudi,Economic Crime,1500
+2021,Tiruppur,Murder,370
+2021,Tiruppur,Assault,1350
+2021,Tiruppur,Theft,1350
+2021,Tiruppur,Robbery,370
+2021,Tiruppur,Kidnapping,370
+2021,Tiruppur,Cyber Crime,1550
+2021,Tiruppur,Road Accident Deaths,636
+2021,Tiruppur,Economic Crime,1500
+2021,Tiruppur City,Murder,370
+2021,Tiruppur City,Assault,1350
+2021,Tiruppur City,Theft,1350
+2021,Tiruppur City,Robbery,370
+2021,Tiruppur City,Kidnapping,370
+2021,Tiruppur City,Cyber Crime,1550
+2021,Tiruppur City,Road Accident Deaths,146
+2021,Tiruppur City,Economic Crime,1500
+2021,Trichy,Murder,370
+2021,Trichy,Assault,1350
+2021,Trichy,Theft,1350
+2021,Trichy,Robbery,370
+2021,Trichy,Kidnapping,370
+2021,Trichy,Cyber Crime,1550
+2021,Trichy,Road Accident Deaths,507
+2021,Trichy,Economic Crime,1500
+2021,Trichy City,Murder,370
+2021,Trichy City,Assault,1350
+2021,Trichy City,Theft,1350
+2021,Trichy City,Robbery,370
+2021,Trichy City,Kidnapping,370
+2021,Trichy City,Cyber Crime,1550
+2021,Trichy City,Road Accident Deaths,128
+2021,Trichy City,Economic Crime,1500
+2021,Vellore,Murder,370
+2021,Vellore,Assault,1350
+2021,Vellore,Theft,1350
+2021,Vellore,Robbery,370
+2021,Vellore,Kidnapping,370
+2021,Vellore,Cyber Crime,1550
+2021,Vellore,Road Accident Deaths,242
+2021,Vellore,Economic Crime,1500
+2021,Villupuram,Murder,370
+2021,Villupuram,Assault,1350
+2021,Villupuram,Theft,1350
+2021,Villupuram,Robbery,370
+2021,Villupuram,Kidnapping,370
+2021,Villupuram,Cyber Crime,1550
+2021,Villupuram,Road Accident Deaths,513
+2021,Villupuram,Economic Crime,1500
+2021,Virudhunagar,Murder,370
+2021,Virudhunagar,Assault,1350
+2021,Virudhunagar,Theft,1350
+2021,Virudhunagar,Robbery,370
+2021,Virudhunagar,Kidnapping,370
+2021,Virudhunagar,Cyber Crime,1550
+2021,Virudhunagar,Road Accident Deaths,421
+2021,Virudhunagar,Economic Crime,1500
+2021,Cyber Cell,Murder,370
+2021,Cyber Cell,Assault,1350
+2021,Cyber Cell,Theft,1350
+2021,Cyber Cell,Robbery,370
+2021,Cyber Cell,Kidnapping,370
+2021,Cyber Cell,Cyber Crime,1550
+2021,Cyber Cell,Road Accident Deaths,0
+2021,Cyber Cell,Economic Crime,1500
+2021,Other Units,Murder,370
+2021,Other Units,Assault,1350
+2021,Other Units,Theft,1350
+2021,Other Units,Robbery,370
+2021,Other Units,Kidnapping,370
+2021,Other Units,Cyber Crime,1550
+2021,Other Units,Road Accident Deaths,0
+2021,Other Units,Economic Crime,1500
+2021,Chengalpattu,Murder,370
+2021,Chengalpattu,Assault,1350
+2021,Chengalpattu,Theft,1350
+2021,Chengalpattu,Robbery,370
+2021,Chengalpattu,Kidnapping,370
+2021,Chengalpattu,Cyber Crime,1550
+2021,Chengalpattu,Road Accident Deaths,461
+2021,Chengalpattu,Economic Crime,1500
+2021,Kallakurichi,Murder,370
+2021,Kallakurichi,Assault,1350
+2021,Kallakurichi,Theft,1350
+2021,Kallakurichi,Robbery,370
+2021,Kallakurichi,Kidnapping,370
+2021,Kallakurichi,Cyber Crime,1550
+2021,Kallakurichi,Road Accident Deaths,260
+2021,Kallakurichi,Economic Crime,1500
+2021,Ranipet,Murder,370
+2021,Ranipet,Assault,1350
+2021,Ranipet,Theft,1350
+2021,Ranipet,Robbery,370
+2021,Ranipet,Kidnapping,370
+2021,Ranipet,Cyber Crime,1550
+2021,Ranipet,Road Accident Deaths,243
+2021,Ranipet,Economic Crime,1500
+2021,Tiruppattur,Murder,370
+2021,Tiruppattur,Assault,1350
+2021,Tiruppattur,Theft,1350
+2021,Tiruppattur,Robbery,370
+2021,Tiruppattur,Kidnapping,370
+2021,Tiruppattur,Cyber Crime,1550
+2021,Tiruppattur,Road Accident Deaths,222
+2021,Tiruppattur,Economic Crime,1500
+2021,Tenkasi,Murder,370
+2021,Tenkasi,Assault,1350
+2021,Tenkasi,Theft,1350
+2021,Tenkasi,Robbery,370
+2021,Tenkasi,Kidnapping,370
+2021,Tenkasi,Cyber Crime,1550
+2021,Tenkasi,Road Accident Deaths,229
+2021,Tenkasi,Economic Crime,1500
+2021,TOTAL,Murder,370
+2021,TOTAL,Assault,1350
+2021,TOTAL,Theft,1350
+2021,TOTAL,Robbery,370
+2021,TOTAL,Kidnapping,370
+2021,TOTAL,Cyber Crime,1550
+2021,TOTAL,Road Accident Deaths,15041
+2021,TOTAL,Economic Crime,1500
+2022,Ariyalur,Murder,380
+2022,Ariyalur,Assault,1400
+2022,Ariyalur,Theft,1400
+2022,Ariyalur,Robbery,380
+2022,Ariyalur,Kidnapping,380
+2022,Ariyalur,Cyber Crime,1700
+2022,Ariyalur,Road Accident Deaths,167
+2022,Ariyalur,Economic Crime,1600
+2022,Chennai,Murder,380
+2022,Chennai,Assault,1400
+2022,Chennai,Theft,1400
+2022,Chennai,Robbery,380
+2022,Chennai,Kidnapping,380
+2022,Chennai,Cyber Crime,1700
+2022,Chennai,Road Accident Deaths,1014
+2022,Chennai,Economic Crime,1600
+2022,Coimbatore,Murder,380
+2022,Coimbatore,Assault,1400
+2022,Coimbatore,Theft,1400
+2022,Coimbatore,Robbery,380
+2022,Coimbatore,Kidnapping,380
+2022,Coimbatore,Cyber Crime,1700
+2022,Coimbatore,Road Accident Deaths,616
+2022,Coimbatore,Economic Crime,1600
+2022,Coimbatore  City,Murder,380
+2022,Coimbatore  City,Assault,1400
+2022,Coimbatore  City,Theft,1400
+2022,Coimbatore  City,Robbery,380
+2022,Coimbatore  City,Kidnapping,380
+2022,Coimbatore  City,Cyber Crime,1700
+2022,Coimbatore  City,Road Accident Deaths,241
+2022,Coimbatore  City,Economic Crime,1600
+2022,Cuddalore,Murder,380
+2022,Cuddalore,Assault,1400
+2022,Cuddalore,Theft,1400
+2022,Cuddalore,Robbery,380
+2022,Cuddalore,Kidnapping,380
+2022,Cuddalore,Cyber Crime,1700
+2022,Cuddalore,Road Accident Deaths,546
+2022,Cuddalore,Economic Crime,1600
+2022,Dharmapuri,Murder,380
+2022,Dharmapuri,Assault,1400
+2022,Dharmapuri,Theft,1400
+2022,Dharmapuri,Robbery,380
+2022,Dharmapuri,Kidnapping,380
+2022,Dharmapuri,Cyber Crime,1700
+2022,Dharmapuri,Road Accident Deaths,320
+2022,Dharmapuri,Economic Crime,1600
+2022,Dindigul,Murder,380
+2022,Dindigul,Assault,1400
+2022,Dindigul,Theft,1400
+2022,Dindigul,Robbery,380
+2022,Dindigul,Kidnapping,380
+2022,Dindigul,Cyber Crime,1700
+2022,Dindigul,Road Accident Deaths,529
+2022,Dindigul,Economic Crime,1600
+2022,Erode,Murder,380
+2022,Erode,Assault,1400
+2022,Erode,Theft,1400
+2022,Erode,Robbery,380
+2022,Erode,Kidnapping,380
+2022,Erode,Cyber Crime,1700
+2022,Erode,Road Accident Deaths,513
+2022,Erode,Economic Crime,1600
+2022,Kanchipuram,Murder,380
+2022,Kanchipuram,Assault,1400
+2022,Kanchipuram,Theft,1400
+2022,Kanchipuram,Robbery,380
+2022,Kanchipuram,Kidnapping,380
+2022,Kanchipuram,Cyber Crime,1700
+2022,Kanchipuram,Road Accident Deaths,242
+2022,Kanchipuram,Economic Crime,1600
+2022,Kanyakumari,Murder,380
+2022,Kanyakumari,Assault,1400
+2022,Kanyakumari,Theft,1400
+2022,Kanyakumari,Robbery,380
+2022,Kanyakumari,Kidnapping,380
+2022,Kanyakumari,Cyber Crime,1700
+2022,Kanyakumari,Road Accident Deaths,319
+2022,Kanyakumari,Economic Crime,1600
+2022,Karur,Murder,380
+2022,Karur,Assault,1400
+2022,Karur,Theft,1400
+2022,Karur,Robbery,380
+2022,Karur,Kidnapping,380
+2022,Karur,Cyber Crime,1700
+2022,Karur,Road Accident Deaths,408
+2022,Karur,Economic Crime,1600
+2022,Krishnagiri,Murder,380
+2022,Krishnagiri,Assault,1400
+2022,Krishnagiri,Theft,1400
+2022,Krishnagiri,Robbery,380
+2022,Krishnagiri,Kidnapping,380
+2022,Krishnagiri,Cyber Crime,1700
+2022,Krishnagiri,Road Accident Deaths,564
+2022,Krishnagiri,Economic Crime,1600
+2022,Madurai,Murder,380
+2022,Madurai,Assault,1400
+2022,Madurai,Theft,1400
+2022,Madurai,Robbery,380
+2022,Madurai,Kidnapping,380
+2022,Madurai,Cyber Crime,1700
+2022,Madurai,Road Accident Deaths,550
+2022,Madurai,Economic Crime,1600
+2022,Madurai City,Murder,380
+2022,Madurai City,Assault,1400
+2022,Madurai City,Theft,1400
+2022,Madurai City,Robbery,380
+2022,Madurai City,Kidnapping,380
+2022,Madurai City,Cyber Crime,1700
+2022,Madurai City,Road Accident Deaths,158
+2022,Madurai City,Economic Crime,1600
+2022,Nagapattinam,Murder,380
+2022,Nagapattinam,Assault,1400
+2022,Nagapattinam,Theft,1400
+2022,Nagapattinam,Robbery,380
+2022,Nagapattinam,Kidnapping,380
+2022,Nagapattinam,Cyber Crime,1700
+2022,Nagapattinam,Road Accident Deaths,228
+2022,Nagapattinam,Economic Crime,1600
+2022,Namakkal,Murder,380
+2022,Namakkal,Assault,1400
+2022,Namakkal,Theft,1400
+2022,Namakkal,Robbery,380
+2022,Namakkal,Kidnapping,380
+2022,Namakkal,Cyber Crime,1700
+2022,Namakkal,Road Accident Deaths,429
+2022,Namakkal,Economic Crime,1600
+2022,Nilgiris,Murder,380
+2022,Nilgiris,Assault,1400
+2022,Nilgiris,Theft,1400
+2022,Nilgiris,Robbery,380
+2022,Nilgiris,Kidnapping,380
+2022,Nilgiris,Cyber Crime,1700
+2022,Nilgiris,Road Accident Deaths,33
+2022,Nilgiris,Economic Crime,1600
+2022,Perambalur,Murder,380
+2022,Perambalur,Assault,1400
+2022,Perambalur,Theft,1400
+2022,Perambalur,Robbery,380
+2022,Perambalur,Kidnapping,380
+2022,Perambalur,Cyber Crime,1700
+2022,Perambalur,Road Accident Deaths,170
+2022,Perambalur,Economic Crime,1600
+2022,Pudukottai,Murder,380
+2022,Pudukottai,Assault,1400
+2022,Pudukottai,Theft,1400
+2022,Pudukottai,Robbery,380
+2022,Pudukottai,Kidnapping,380
+2022,Pudukottai,Cyber Crime,1700
+2022,Pudukottai,Road Accident Deaths,374
+2022,Pudukottai,Economic Crime,1600
+2022,Ramnathapuram,Murder,380
+2022,Ramnathapuram,Assault,1400
+2022,Ramnathapuram,Theft,1400
+2022,Ramnathapuram,Robbery,380
+2022,Ramnathapuram,Kidnapping,380
+2022,Ramnathapuram,Cyber Crime,1700
+2022,Ramnathapuram,Road Accident Deaths,330
+2022,Ramnathapuram,Economic Crime,1600
+2022,Railway Chennai,Murder,380
+2022,Railway Chennai,Assault,1400
+2022,Railway Chennai,Theft,1400
+2022,Railway Chennai,Robbery,380
+2022,Railway Chennai,Kidnapping,380
+2022,Railway Chennai,Cyber Crime,1700
+2022,Railway Chennai,Road Accident Deaths,1
+2022,Railway Chennai,Economic Crime,1600
+2022,Railway Trichy,Murder,380
+2022,Railway Trichy,Assault,1400
+2022,Railway Trichy,Theft,1400
+2022,Railway Trichy,Robbery,380
+2022,Railway Trichy,Kidnapping,380
+2022,Railway Trichy,Cyber Crime,1700
+2022,Railway Trichy,Road Accident Deaths,0
+2022,Railway Trichy,Economic Crime,1600
+2022,Salem,Murder,380
+2022,Salem,Assault,1400
+2022,Salem,Theft,1400
+2022,Salem,Robbery,380
+2022,Salem,Kidnapping,380
+2022,Salem,Cyber Crime,1700
+2022,Salem,Road Accident Deaths,581
+2022,Salem,Economic Crime,1600
+2022,Salem City,Murder,380
+2022,Salem City,Assault,1400
+2022,Salem City,Theft,1400
+2022,Salem City,Robbery,380
+2022,Salem City,Kidnapping,380
+2022,Salem City,Cyber Crime,1700
+2022,Salem City,Road Accident Deaths,152
+2022,Salem City,Economic Crime,1600
+2022,Sivagangai,Murder,380
+2022,Sivagangai,Assault,1400
+2022,Sivagangai,Theft,1400
+2022,Sivagangai,Robbery,380
+2022,Sivagangai,Kidnapping,380
+2022,Sivagangai,Cyber Crime,1700
+2022,Sivagangai,Road Accident Deaths,332
+2022,Sivagangai,Economic Crime,1600
+2022,Thanjavur,Murder,380
+2022,Thanjavur,Assault,1400
+2022,Thanjavur,Theft,1400
+2022,Thanjavur,Robbery,380
+2022,Thanjavur,Kidnapping,380
+2022,Thanjavur,Cyber Crime,1700
+2022,Thanjavur,Road Accident Deaths,432
+2022,Thanjavur,Economic Crime,1600
+2022,Theni,Murder,380
+2022,Theni,Assault,1400
+2022,Theni,Theft,1400
+2022,Theni,Robbery,380
+2022,Theni,Kidnapping,380
+2022,Theni,Cyber Crime,1700
+2022,Theni,Road Accident Deaths,235
+2022,Theni,Economic Crime,1600
+2022,Thirunelveli,Murder,380
+2022,Thirunelveli,Assault,1400
+2022,Thirunelveli,Theft,1400
+2022,Thirunelveli,Robbery,380
+2022,Thirunelveli,Kidnapping,380
+2022,Thirunelveli,Cyber Crime,1700
+2022,Thirunelveli,Road Accident Deaths,275
+2022,Thirunelveli,Economic Crime,1600
+2022,Thirunelveli City,Murder,380
+2022,Thirunelveli City,Assault,1400
+2022,Thirunelveli City,Theft,1400
+2022,Thirunelveli City,Robbery,380
+2022,Thirunelveli City,Kidnapping,380
+2022,Thirunelveli City,Cyber Crime,1700
+2022,Thirunelveli City,Road Accident Deaths,79
+2022,Thirunelveli City,Economic Crime,1600
+2022,Thiruvallur,Murder,380
+2022,Thiruvallur,Assault,1400
+2022,Thiruvallur,Theft,1400
+2022,Thiruvallur,Robbery,380
+2022,Thiruvallur,Kidnapping,380
+2022,Thiruvallur,Cyber Crime,1700
+2022,Thiruvallur,Road Accident Deaths,330
+2022,Thiruvallur,Economic Crime,1600
+2022,Thiruvannamalai,Murder,380
+2022,Thiruvannamalai,Assault,1400
+2022,Thiruvannamalai,Theft,1400
+2022,Thiruvannamalai,Robbery,380
+2022,Thiruvannamalai,Kidnapping,380
+2022,Thiruvannamalai,Cyber Crime,1700
+2022,Thiruvannamalai,Road Accident Deaths,509
+2022,Thiruvannamalai,Economic Crime,1600
+2022,Thiruvarur,Murder,380
+2022,Thiruvarur,Assault,1400
+2022,Thiruvarur,Theft,1400
+2022,Thiruvarur,Robbery,380
+2022,Thiruvarur,Kidnapping,380
+2022,Thiruvarur,Cyber Crime,1700
+2022,Thiruvarur,Road Accident Deaths,168
+2022,Thiruvarur,Economic Crime,1600
+2022,Thoothukudi,Murder,380
+2022,Thoothukudi,Assault,1400
+2022,Thoothukudi,Theft,1400
+2022,Thoothukudi,Robbery,380
+2022,Thoothukudi,Kidnapping,380
+2022,Thoothukudi,Cyber Crime,1700
+2022,Thoothukudi,Road Accident Deaths,385
+2022,Thoothukudi,Economic Crime,1600
+2022,Tiruppur,Murder,380
+2022,Tiruppur,Assault,1400
+2022,Tiruppur,Theft,1400
+2022,Tiruppur,Robbery,380
+2022,Tiruppur,Kidnapping,380
+2022,Tiruppur,Cyber Crime,1700
+2022,Tiruppur,Road Accident Deaths,648
+2022,Tiruppur,Economic Crime,1600
+2022,Tiruppur City,Murder,380
+2022,Tiruppur City,Assault,1400
+2022,Tiruppur City,Theft,1400
+2022,Tiruppur City,Robbery,380
+2022,Tiruppur City,Kidnapping,380
+2022,Tiruppur City,Cyber Crime,1700
+2022,Tiruppur City,Road Accident Deaths,149
+2022,Tiruppur City,Economic Crime,1600
+2022,Trichy,Murder,380
+2022,Trichy,Assault,1400
+2022,Trichy,Theft,1400
+2022,Trichy,Robbery,380
+2022,Trichy,Kidnapping,380
+2022,Trichy,Cyber Crime,1700
+2022,Trichy,Road Accident Deaths,517
+2022,Trichy,Economic Crime,1600
+2022,Trichy City,Murder,380
+2022,Trichy City,Assault,1400
+2022,Trichy City,Theft,1400
+2022,Trichy City,Robbery,380
+2022,Trichy City,Kidnapping,380
+2022,Trichy City,Cyber Crime,1700
+2022,Trichy City,Road Accident Deaths,131
+2022,Trichy City,Economic Crime,1600
+2022,Vellore,Murder,380
+2022,Vellore,Assault,1400
+2022,Vellore,Theft,1400
+2022,Vellore,Robbery,380
+2022,Vellore,Kidnapping,380
+2022,Vellore,Cyber Crime,1700
+2022,Vellore,Road Accident Deaths,247
+2022,Vellore,Economic Crime,1600
+2022,Villupuram,Murder,380
+2022,Villupuram,Assault,1400
+2022,Villupuram,Theft,1400
+2022,Villupuram,Robbery,380
+2022,Villupuram,Kidnapping,380
+2022,Villupuram,Cyber Crime,1700
+2022,Villupuram,Road Accident Deaths,523
+2022,Villupuram,Economic Crime,1600
+2022,Virudhunagar,Murder,380
+2022,Virudhunagar,Assault,1400
+2022,Virudhunagar,Theft,1400
+2022,Virudhunagar,Robbery,380
+2022,Virudhunagar,Kidnapping,380
+2022,Virudhunagar,Cyber Crime,1700
+2022,Virudhunagar,Road Accident Deaths,429
+2022,Virudhunagar,Economic Crime,1600
+2022,Cyber Cell,Murder,380
+2022,Cyber Cell,Assault,1400
+2022,Cyber Cell,Theft,1400
+2022,Cyber Cell,Robbery,380
+2022,Cyber Cell,Kidnapping,380
+2022,Cyber Cell,Cyber Crime,1700
+2022,Cyber Cell,Road Accident Deaths,0
+2022,Cyber Cell,Economic Crime,1600
+2022,Other Units,Murder,380
+2022,Other Units,Assault,1400
+2022,Other Units,Theft,1400
+2022,Other Units,Robbery,380
+2022,Other Units,Kidnapping,380
+2022,Other Units,Cyber Crime,1700
+2022,Other Units,Road Accident Deaths,0
+2022,Other Units,Economic Crime,1600
+2022,Chengalpattu,Murder,380
+2022,Chengalpattu,Assault,1400
+2022,Chengalpattu,Theft,1400
+2022,Chengalpattu,Robbery,380
+2022,Chengalpattu,Kidnapping,380
+2022,Chengalpattu,Cyber Crime,1700
+2022,Chengalpattu,Road Accident Deaths,470
+2022,Chengalpattu,Economic Crime,1600
+2022,Kallakurichi,Murder,380
+2022,Kallakurichi,Assault,1400
+2022,Kallakurichi,Theft,1400
+2022,Kallakurichi,Robbery,380
+2022,Kallakurichi,Kidnapping,380
+2022,Kallakurichi,Cyber Crime,1700
+2022,Kallakurichi,Road Accident Deaths,265
+2022,Kallakurichi,Economic Crime,1600
+2022,Ranipet,Murder,380
+2022,Ranipet,Assault,1400
+2022,Ranipet,Theft,1400
+2022,Ranipet,Robbery,380
+2022,Ranipet,Kidnapping,380
+2022,Ranipet,Cyber Crime,1700
+2022,Ranipet,Road Accident Deaths,248
+2022,Ranipet,Economic Crime,1600
+2022,Tiruppattur,Murder,380
+2022,Tiruppattur,Assault,1400
+2022,Tiruppattur,Theft,1400
+2022,Tiruppattur,Robbery,380
+2022,Tiruppattur,Kidnapping,380
+2022,Tiruppattur,Cyber Crime,1700
+2022,Tiruppattur,Road Accident Deaths,226
+2022,Tiruppattur,Economic Crime,1600
+2022,Tenkasi,Murder,380
+2022,Tenkasi,Assault,1400
+2022,Tenkasi,Theft,1400
+2022,Tenkasi,Robbery,380
+2022,Tenkasi,Kidnapping,380
+2022,Tenkasi,Cyber Crime,1700
+2022,Tenkasi,Road Accident Deaths,234
+2022,Tenkasi,Economic Crime,1600
+2022,TOTAL,Murder,380
+2022,TOTAL,Assault,1400
+2022,TOTAL,Theft,1400
+2022,TOTAL,Robbery,380
+2022,TOTAL,Kidnapping,380
+2022,TOTAL,Cyber Crime,1700
+2022,TOTAL,Road Accident Deaths,15336
+2022,TOTAL,Economic Crime,1600
